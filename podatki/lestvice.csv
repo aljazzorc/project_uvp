@@ -1,0 +1,2099 @@
+sezona,vrsta,mesto,klub,tekme,zmage,remiji,porazi,dani_goli,prejeti_goli,tocke
+1992-93,skupaj,1,Manchester United,42,24,12,6,67,31,84
+1992-93,skupaj,2,Aston Villa,42,21,11,10,57,40,74
+1992-93,skupaj,3,Norwich City,42,21,9,12,61,65,72
+1992-93,skupaj,4,Blackburn Rovers,42,20,11,11,68,46,71
+1992-93,skupaj,5,Queens Park Rangers,42,17,12,13,63,55,63
+1992-93,skupaj,6,Liverpool,42,16,11,15,62,55,59
+1992-93,skupaj,7,Sheffield Wednesday,42,15,14,13,55,51,59
+1992-93,skupaj,8,Tottenham Hotspur,42,16,11,15,60,66,59
+1992-93,skupaj,9,Manchester City,42,15,12,15,56,51,57
+1992-93,skupaj,10,Arsenal,42,15,11,16,40,38,56
+1992-93,skupaj,11,Chelsea,42,14,14,14,51,54,56
+1992-93,skupaj,12,Wimbledon,42,14,12,16,56,55,54
+1992-93,skupaj,13,Everton,42,15,8,19,53,55,53
+1992-93,skupaj,14,Sheffield United,42,14,10,18,54,53,52
+1992-93,skupaj,15,Coventry City,42,13,13,16,52,57,52
+1992-93,skupaj,16,Ipswich Town,42,12,16,14,50,55,52
+1992-93,skupaj,17,Leeds United,42,12,15,15,57,62,51
+1992-93,skupaj,18,Southampton,42,13,11,18,54,61,50
+1992-93,skupaj,19,Oldham Athletic,42,13,10,19,63,74,49
+1992-93,skupaj,20,Crystal Palace,42,11,16,15,48,61,49
+1992-93,skupaj,21,Middlesbrough,42,11,11,20,54,75,44
+1992-93,skupaj,22,Nottingham Forest,42,10,10,22,41,62,40
+1992-93,doma,1,Manchester United,21,14,5,2,39,14,47
+1992-93,doma,2,Norwich City,21,13,6,2,31,19,45
+1992-93,doma,3,Leeds United,21,12,8,1,40,17,44
+1992-93,doma,4,Aston Villa,21,13,5,3,36,16,44
+1992-93,doma,5,Liverpool,21,13,4,4,41,18,43
+1992-93,doma,6,Blackburn Rovers,21,13,4,4,38,18,43
+1992-93,doma,7,Tottenham Hotspur,21,11,5,5,40,25,38
+1992-93,doma,8,Queens Park Rangers,21,11,5,5,41,32,38
+1992-93,doma,9,Sheffield United,21,10,6,5,33,19,36
+1992-93,doma,10,Oldham Athletic,21,10,6,5,43,30,36
+1992-93,doma,11,Southampton,21,10,6,5,30,21,36
+1992-93,doma,12,Sheffield Wednesday,21,9,8,4,34,26,35
+1992-93,doma,13,Chelsea,21,9,7,5,29,22,34
+1992-93,doma,14,Ipswich Town,21,8,9,4,29,22,33
+1992-93,doma,15,Wimbledon,21,9,4,8,32,23,31
+1992-93,doma,16,Arsenal,21,8,6,7,25,20,30
+1992-93,doma,17,Middlesbrough,21,8,5,8,33,27,29
+1992-93,doma,18,Manchester City,21,7,8,6,30,25,29
+1992-93,doma,19,Crystal Palace,21,6,9,6,27,25,27
+1992-93,doma,20,Everton,21,7,6,8,26,27,27
+1992-93,doma,21,Coventry City,21,7,4,10,29,28,25
+1992-93,doma,22,Nottingham Forest,21,6,4,11,17,25,22
+1992-93,v_gosteh,1,Manchester United,21,10,7,4,28,17,37
+1992-93,v_gosteh,2,Aston Villa,21,8,6,7,21,24,30
+1992-93,v_gosteh,3,Blackburn Rovers,21,7,7,7,30,28,28
+1992-93,v_gosteh,4,Manchester City,21,8,4,9,26,26,28
+1992-93,v_gosteh,5,Coventry City,21,6,9,6,23,29,27
+1992-93,v_gosteh,6,Norwich City,21,8,3,10,30,46,27
+1992-93,v_gosteh,7,Everton,21,8,2,11,27,28,26
+1992-93,v_gosteh,8,Arsenal,21,7,5,9,15,18,26
+1992-93,v_gosteh,9,Queens Park Rangers,21,6,7,8,22,23,25
+1992-93,v_gosteh,10,Sheffield Wednesday,21,6,6,9,21,25,24
+1992-93,v_gosteh,11,Wimbledon,21,5,8,8,24,32,23
+1992-93,v_gosteh,12,Chelsea,21,5,7,9,22,32,22
+1992-93,v_gosteh,13,Crystal Palace,21,5,7,9,21,36,22
+1992-93,v_gosteh,14,Tottenham Hotspur,21,5,6,10,20,41,21
+1992-93,v_gosteh,15,Ipswich Town,21,4,7,10,21,33,19
+1992-93,v_gosteh,16,Nottingham Forest,21,4,6,11,24,37,18
+1992-93,v_gosteh,17,Sheffield United,21,4,4,13,21,34,16
+1992-93,v_gosteh,18,Liverpool,21,3,7,11,21,37,16
+1992-93,v_gosteh,19,Middlesbrough,21,3,6,12,21,48,15
+1992-93,v_gosteh,20,Southampton,21,3,5,13,24,40,14
+1992-93,v_gosteh,21,Oldham Athletic,21,3,4,14,20,44,13
+1992-93,v_gosteh,22,Leeds United,21,0,7,14,17,45,7
+1993-94,skupaj,1,Manchester United,42,27,11,4,80,38,92
+1993-94,skupaj,2,Blackburn Rovers,42,25,9,8,63,36,84
+1993-94,skupaj,3,Newcastle United,42,23,8,11,82,41,77
+1993-94,skupaj,4,Arsenal,42,18,17,7,53,28,71
+1993-94,skupaj,5,Leeds United,42,18,16,8,65,39,70
+1993-94,skupaj,6,Wimbledon,42,18,11,13,56,53,65
+1993-94,skupaj,7,Sheffield Wednesday,42,16,16,10,76,54,64
+1993-94,skupaj,8,Liverpool,42,17,9,16,59,55,60
+1993-94,skupaj,9,Queens Park Rangers,42,16,12,14,62,61,60
+1993-94,skupaj,10,Aston Villa,42,15,12,15,46,50,57
+1993-94,skupaj,11,Coventry City,42,14,14,14,43,45,56
+1993-94,skupaj,12,Norwich City,42,12,17,13,65,61,53
+1993-94,skupaj,13,West Ham United,42,13,13,16,47,58,52
+1993-94,skupaj,14,Chelsea,42,13,12,17,49,53,51
+1993-94,skupaj,15,Tottenham Hotspur,42,11,12,19,54,59,45
+1993-94,skupaj,16,Manchester City,42,9,18,15,38,49,45
+1993-94,skupaj,17,Everton,42,12,8,22,42,63,44
+1993-94,skupaj,18,Southampton,42,12,7,23,49,66,43
+1993-94,skupaj,19,Ipswich Town,42,9,16,17,35,58,43
+1993-94,skupaj,20,Sheffield United,42,8,18,16,42,60,42
+1993-94,skupaj,21,Oldham Athletic,42,9,13,20,42,68,40
+1993-94,skupaj,22,Swindon Town,42,5,15,22,47,100,30
+1993-94,doma,1,Manchester United,21,14,6,1,39,13,48
+1993-94,doma,2,Blackburn Rovers,21,14,5,2,31,11,47
+1993-94,doma,3,Newcastle United,21,14,4,3,51,14,46
+1993-94,doma,4,Leeds United,21,13,6,2,37,18,45
+1993-94,doma,5,Wimbledon,21,12,5,4,35,21,41
+1993-94,doma,6,Liverpool,21,12,4,5,33,23,40
+1993-94,doma,7,Chelsea,21,11,5,5,31,20,38
+1993-94,doma,8,Arsenal,21,10,8,3,25,15,38
+1993-94,doma,9,Sheffield Wednesday,21,10,7,4,48,24,37
+1993-94,doma,10,Coventry City,21,9,7,5,23,17,34
+1993-94,doma,11,Queens Park Rangers,21,8,7,6,32,29,31
+1993-94,doma,12,Aston Villa,21,8,5,8,23,18,29
+1993-94,doma,13,Southampton,21,9,2,10,30,31,29
+1993-94,doma,14,Manchester City,21,6,10,5,24,22,28
+1993-94,doma,15,Sheffield United,21,6,10,5,24,23,28
+1993-94,doma,16,Everton,21,8,4,9,26,30,28
+1993-94,doma,17,West Ham United,21,6,7,8,26,31,25
+1993-94,doma,18,Oldham Athletic,21,5,8,8,24,33,23
+1993-94,doma,19,Ipswich Town,21,5,8,8,21,32,23
+1993-94,doma,20,Norwich City,21,4,9,8,26,29,21
+1993-94,doma,21,Tottenham Hotspur,21,4,8,9,29,33,20
+1993-94,doma,22,Swindon Town,21,4,7,10,25,45,19
+1993-94,v_gosteh,1,Manchester United,21,13,5,3,41,25,44
+1993-94,v_gosteh,2,Blackburn Rovers,21,11,4,6,32,25,37
+1993-94,v_gosteh,3,Arsenal,21,8,9,4,28,13,33
+1993-94,v_gosteh,4,Norwich City,21,8,8,5,39,32,32
+1993-94,v_gosteh,5,Newcastle United,21,9,4,8,31,27,31
+1993-94,v_gosteh,6,Queens Park Rangers,21,8,5,8,30,32,29
+1993-94,v_gosteh,7,Aston Villa,21,7,7,7,23,32,28
+1993-94,v_gosteh,8,Sheffield Wednesday,21,6,9,6,28,30,27
+1993-94,v_gosteh,9,West Ham United,21,7,6,8,21,27,27
+1993-94,v_gosteh,10,Leeds United,21,5,10,6,28,21,25
+1993-94,v_gosteh,11,Tottenham Hotspur,21,7,4,10,25,26,25
+1993-94,v_gosteh,12,Wimbledon,21,6,6,9,21,32,24
+1993-94,v_gosteh,13,Coventry City,21,5,7,9,20,28,22
+1993-94,v_gosteh,14,Liverpool,21,5,5,11,26,32,20
+1993-94,v_gosteh,15,Ipswich Town,21,4,8,9,14,26,20
+1993-94,v_gosteh,16,Manchester City,21,3,8,10,14,27,17
+1993-94,v_gosteh,17,Oldham Athletic,21,4,5,12,18,35,17
+1993-94,v_gosteh,18,Everton,21,4,4,13,16,33,16
+1993-94,v_gosteh,19,Southampton,21,3,5,13,19,35,14
+1993-94,v_gosteh,20,Sheffield United,21,2,8,11,18,37,14
+1993-94,v_gosteh,21,Chelsea,21,2,7,12,18,33,13
+1993-94,v_gosteh,22,Swindon Town,21,1,8,12,22,55,11
+1994-95,skupaj,1,Blackburn Rovers,42,27,8,7,80,39,89
+1994-95,skupaj,2,Manchester United,42,26,10,6,77,28,88
+1994-95,skupaj,3,Nottingham Forest,42,22,11,9,72,43,77
+1994-95,skupaj,4,Liverpool,42,21,11,10,65,37,74
+1994-95,skupaj,5,Leeds United,42,20,13,9,59,38,73
+1994-95,skupaj,6,Newcastle United,42,20,12,10,67,47,72
+1994-95,skupaj,7,Tottenham Hotspur,42,16,14,12,66,58,62
+1994-95,skupaj,8,Queens Park Rangers,42,17,9,16,61,59,60
+1994-95,skupaj,9,Wimbledon,42,15,11,16,48,65,56
+1994-95,skupaj,10,Southampton,42,12,18,12,61,63,54
+1994-95,skupaj,11,Chelsea,42,13,15,14,50,55,54
+1994-95,skupaj,12,Arsenal,42,13,12,17,52,49,51
+1994-95,skupaj,13,Sheffield Wednesday,42,13,12,17,49,57,51
+1994-95,skupaj,14,West Ham United,42,13,11,18,44,48,50
+1994-95,skupaj,15,Everton,42,11,17,14,44,51,50
+1994-95,skupaj,16,Coventry City,42,12,14,16,44,62,50
+1994-95,skupaj,17,Manchester City,42,12,13,17,53,64,49
+1994-95,skupaj,18,Aston Villa,42,11,15,16,51,56,48
+1994-95,skupaj,19,Crystal Palace,42,11,12,19,34,49,45
+1994-95,skupaj,20,Norwich City,42,10,13,19,37,54,43
+1994-95,skupaj,21,Leicester City,42,6,11,25,45,80,29
+1994-95,skupaj,22,Ipswich Town,42,7,6,29,36,93,27
+1994-95,doma,1,Blackburn Rovers,21,17,2,2,54,21,53
+1994-95,doma,2,Manchester United,21,16,4,1,42,4,52
+1994-95,doma,3,Newcastle United,21,14,6,1,46,20,48
+1994-95,doma,4,Liverpool,21,13,5,3,38,13,44
+1994-95,doma,5,Leeds United,21,13,5,3,35,15,44
+1994-95,doma,6,Nottingham Forest,21,12,6,3,36,18,42
+1994-95,doma,7,Queens Park Rangers,21,11,3,7,36,26,36
+1994-95,doma,8,Tottenham Hotspur,21,10,5,6,32,25,35
+1994-95,doma,9,West Ham United,21,9,6,6,28,19,33
+1994-95,doma,10,Everton,21,8,9,4,31,23,33
+1994-95,doma,11,Southampton,21,8,9,4,33,27,33
+1994-95,doma,12,Norwich City,21,8,8,5,27,21,32
+1994-95,doma,13,Wimbledon,21,9,5,7,26,26,32
+1994-95,doma,14,Manchester City,21,8,7,6,37,28,31
+1994-95,doma,15,Chelsea,21,7,7,7,25,22,28
+1994-95,doma,16,Sheffield Wednesday,21,7,7,7,26,26,28
+1994-95,doma,17,Coventry City,21,7,7,7,23,25,28
+1994-95,doma,18,Arsenal,21,6,9,6,27,21,27
+1994-95,doma,19,Aston Villa,21,6,9,6,27,24,27
+1994-95,doma,20,Crystal Palace,21,6,6,9,16,23,24
+1994-95,doma,21,Leicester City,21,5,6,10,28,37,21
+1994-95,doma,22,Ipswich Town,21,5,3,13,24,34,18
+1994-95,v_gosteh,1,Manchester United,21,10,6,5,35,24,36
+1994-95,v_gosteh,2,Blackburn Rovers,21,10,6,5,26,18,36
+1994-95,v_gosteh,3,Nottingham Forest,21,10,5,6,36,25,35
+1994-95,v_gosteh,4,Liverpool,21,8,6,7,27,24,30
+1994-95,v_gosteh,5,Leeds United,21,7,8,6,24,23,29
+1994-95,v_gosteh,6,Tottenham Hotspur,21,6,9,6,34,33,27
+1994-95,v_gosteh,7,Chelsea,21,6,8,7,25,33,26
+1994-95,v_gosteh,8,Arsenal,21,7,3,11,25,28,24
+1994-95,v_gosteh,9,Newcastle United,21,6,6,9,21,27,24
+1994-95,v_gosteh,10,Queens Park Rangers,21,6,6,9,25,33,24
+1994-95,v_gosteh,11,Wimbledon,21,6,6,9,22,39,24
+1994-95,v_gosteh,12,Sheffield Wednesday,21,6,5,10,23,31,23
+1994-95,v_gosteh,13,Coventry City,21,5,7,9,21,37,22
+1994-95,v_gosteh,14,Southampton,21,4,9,8,28,36,21
+1994-95,v_gosteh,15,Aston Villa,21,5,6,10,24,32,21
+1994-95,v_gosteh,16,Crystal Palace,21,5,6,10,18,26,21
+1994-95,v_gosteh,17,Manchester City,21,4,6,11,16,36,18
+1994-95,v_gosteh,18,West Ham United,21,4,5,12,16,29,17
+1994-95,v_gosteh,19,Everton,21,3,8,10,13,28,17
+1994-95,v_gosteh,20,Norwich City,21,2,5,14,10,33,11
+1994-95,v_gosteh,21,Ipswich Town,21,2,3,16,12,59,9
+1994-95,v_gosteh,22,Leicester City,21,1,5,15,17,43,8
+1995-96,skupaj,1,Manchester United,38,25,7,6,73,35,82
+1995-96,skupaj,2,Newcastle United,38,24,6,8,66,37,78
+1995-96,skupaj,3,Liverpool,38,20,11,7,70,34,71
+1995-96,skupaj,4,Aston Villa,38,18,9,11,52,35,63
+1995-96,skupaj,5,Arsenal,38,17,12,9,49,32,63
+1995-96,skupaj,6,Everton,38,17,10,11,64,44,61
+1995-96,skupaj,7,Blackburn Rovers,38,18,7,13,61,47,61
+1995-96,skupaj,8,Tottenham Hotspur,38,16,13,9,50,38,61
+1995-96,skupaj,9,Nottingham Forest,38,15,13,10,50,54,58
+1995-96,skupaj,10,West Ham United,38,14,9,15,43,52,51
+1995-96,skupaj,11,Chelsea,38,12,14,12,46,44,50
+1995-96,skupaj,12,Middlesbrough,38,11,10,17,35,50,43
+1995-96,skupaj,13,Leeds United,38,12,7,19,40,57,43
+1995-96,skupaj,14,Wimbledon,38,10,11,17,55,70,41
+1995-96,skupaj,15,Sheffield Wednesday,38,10,10,18,48,61,40
+1995-96,skupaj,16,Coventry City,38,8,14,16,42,60,38
+1995-96,skupaj,17,Southampton,38,9,11,18,34,52,38
+1995-96,skupaj,18,Manchester City,38,9,11,18,33,58,38
+1995-96,skupaj,19,Queens Park Rangers,38,9,6,23,38,57,33
+1995-96,skupaj,20,Bolton Wanderers,38,8,5,25,39,71,29
+1995-96,doma,1,Newcastle United,19,17,1,1,38,9,52
+1995-96,doma,2,Manchester United,19,15,4,0,36,9,49
+1995-96,doma,3,Liverpool,19,14,4,1,46,13,46
+1995-96,doma,4,Blackburn Rovers,19,14,2,3,44,19,44
+1995-96,doma,5,Nottingham Forest,19,11,6,2,29,17,39
+1995-96,doma,6,Aston Villa,19,11,5,3,32,15,38
+1995-96,doma,7,Arsenal,19,10,7,2,30,16,37
+1995-96,doma,8,Everton,19,10,5,4,35,19,35
+1995-96,doma,9,Tottenham Hotspur,19,9,5,5,26,19,32
+1995-96,doma,10,West Ham United,19,9,5,5,25,21,32
+1995-96,doma,11,Chelsea,19,7,7,5,30,22,28
+1995-96,doma,12,Southampton,19,7,7,5,21,18,28
+1995-96,doma,13,Manchester City,19,7,7,5,21,19,28
+1995-96,doma,14,Middlesbrough,19,8,3,8,27,27,27
+1995-96,doma,15,Leeds United,19,8,3,8,21,21,27
+1995-96,doma,16,Sheffield Wednesday,19,7,5,7,30,31,26
+1995-96,doma,17,Coventry City,19,6,7,6,21,23,25
+1995-96,doma,18,Queens Park Rangers,19,6,5,8,25,26,23
+1995-96,doma,19,Wimbledon,19,5,6,8,27,33,21
+1995-96,doma,20,Bolton Wanderers,19,5,4,10,16,31,19
+1995-96,v_gosteh,1,Manchester United,19,10,3,6,37,26,33
+1995-96,v_gosteh,2,Tottenham Hotspur,19,7,8,4,24,19,29
+1995-96,v_gosteh,3,Everton,19,7,5,7,29,25,26
+1995-96,v_gosteh,4,Arsenal,19,7,5,7,19,16,26
+1995-96,v_gosteh,5,Newcastle United,19,7,5,7,28,28,26
+1995-96,v_gosteh,6,Liverpool,19,6,7,6,24,21,25
+1995-96,v_gosteh,7,Aston Villa,19,7,4,8,20,20,25
+1995-96,v_gosteh,8,Chelsea,19,5,7,7,16,22,22
+1995-96,v_gosteh,9,Wimbledon,19,5,5,9,28,37,20
+1995-96,v_gosteh,10,West Ham United,19,5,4,10,18,31,19
+1995-96,v_gosteh,11,Nottingham Forest,19,4,7,8,21,37,19
+1995-96,v_gosteh,12,Blackburn Rovers,19,4,5,10,17,28,17
+1995-96,v_gosteh,13,Middlesbrough,19,3,7,9,8,23,16
+1995-96,v_gosteh,14,Leeds United,19,4,4,11,19,36,16
+1995-96,v_gosteh,15,Sheffield Wednesday,19,3,5,11,18,30,14
+1995-96,v_gosteh,16,Coventry City,19,2,7,10,21,37,13
+1995-96,v_gosteh,17,Bolton Wanderers,19,3,1,15,23,40,10
+1995-96,v_gosteh,18,Queens Park Rangers,19,3,1,15,13,31,10
+1995-96,v_gosteh,19,Southampton,19,2,4,13,13,34,10
+1995-96,v_gosteh,20,Manchester City,19,2,4,13,12,39,10
+1996-97,skupaj,1,Manchester United,38,21,12,5,76,44,75
+1996-97,skupaj,2,Newcastle United,38,19,11,8,73,40,68
+1996-97,skupaj,3,Arsenal,38,19,11,8,62,32,68
+1996-97,skupaj,4,Liverpool,38,19,11,8,62,37,68
+1996-97,skupaj,5,Aston Villa,38,17,10,11,47,34,61
+1996-97,skupaj,6,Chelsea,38,16,11,11,58,55,59
+1996-97,skupaj,7,Sheffield Wednesday,38,14,15,9,50,51,57
+1996-97,skupaj,8,Wimbledon,38,15,11,12,49,46,56
+1996-97,skupaj,9,Leicester City,38,12,11,15,46,54,47
+1996-97,skupaj,10,Tottenham Hotspur,38,13,7,18,44,51,46
+1996-97,skupaj,11,Leeds United,38,11,13,14,28,38,46
+1996-97,skupaj,12,Derby County,38,11,13,14,45,58,46
+1996-97,skupaj,13,Blackburn Rovers,38,9,15,14,42,43,42
+1996-97,skupaj,14,West Ham United,38,10,12,16,39,48,42
+1996-97,skupaj,15,Everton,38,10,12,16,44,57,42
+1996-97,skupaj,16,Southampton,38,10,11,17,50,56,41
+1996-97,skupaj,17,Coventry City,38,9,14,15,38,54,41
+1996-97,skupaj,18,Sunderland,38,10,10,18,35,53,40
+1996-97,skupaj,19,Middlesbrough,38,10,12,16,51,60,39
+1996-97,skupaj,20,Nottingham Forest,38,6,16,16,31,59,34
+1996-97,doma,1,Newcastle United,19,13,3,3,54,20,42
+1996-97,doma,2,Manchester United,19,12,5,2,38,17,41
+1996-97,doma,3,Aston Villa,19,11,5,3,27,13,38
+1996-97,doma,4,Liverpool,19,10,6,3,38,19,36
+1996-97,doma,5,Arsenal,19,10,5,4,36,18,35
+1996-97,doma,6,Chelsea,19,9,8,2,33,22,35
+1996-97,doma,7,Sheffield Wednesday,19,8,10,1,25,16,34
+1996-97,doma,8,Wimbledon,19,9,6,4,28,21,33
+1996-97,doma,9,Derby County,19,8,6,5,25,22,30
+1996-97,doma,10,Blackburn Rovers,19,8,4,7,28,23,28
+1996-97,doma,11,Tottenham Hotspur,19,8,4,7,19,17,28
+1996-97,doma,12,Leeds United,19,7,7,5,15,13,28
+1996-97,doma,13,West Ham United,19,7,6,6,27,25,27
+1996-97,doma,14,Sunderland,19,7,6,6,20,18,27
+1996-97,doma,15,Middlesbrough,19,8,5,6,34,25,29
+1996-97,doma,16,Leicester City,19,7,5,7,22,26,26
+1996-97,doma,17,Southampton,19,6,7,6,32,24,25
+1996-97,doma,18,Everton,19,7,4,8,24,22,25
+1996-97,doma,19,Coventry City,19,4,8,7,19,23,20
+1996-97,doma,20,Nottingham Forest,19,3,9,7,15,27,18
+1996-97,v_gosteh,1,Manchester United,19,9,7,3,38,27,34
+1996-97,v_gosteh,2,Arsenal,19,9,6,4,26,14,33
+1996-97,v_gosteh,3,Liverpool,19,9,5,5,24,18,32
+1996-97,v_gosteh,4,Newcastle United,19,6,8,5,19,20,26
+1996-97,v_gosteh,5,Chelsea,19,7,3,9,25,33,24
+1996-97,v_gosteh,6,Aston Villa,19,6,5,8,20,21,23
+1996-97,v_gosteh,7,Wimbledon,19,6,5,8,21,25,23
+1996-97,v_gosteh,8,Sheffield Wednesday,19,6,5,8,25,35,23
+1996-97,v_gosteh,9,Leicester City,19,5,6,8,24,28,21
+1996-97,v_gosteh,10,Coventry City,19,5,6,8,19,31,21
+1996-97,v_gosteh,11,Tottenham Hotspur,19,5,3,11,25,34,18
+1996-97,v_gosteh,12,Leeds United,19,4,6,9,13,25,18
+1996-97,v_gosteh,13,Everton,19,3,8,8,20,35,17
+1996-97,v_gosteh,14,Southampton,19,4,4,11,18,32,16
+1996-97,v_gosteh,15,Derby County,19,3,7,9,20,36,16
+1996-97,v_gosteh,16,Nottingham Forest,19,3,7,9,16,32,16
+1996-97,v_gosteh,17,West Ham United,19,3,6,10,12,23,15
+1996-97,v_gosteh,18,Blackburn Rovers,19,1,11,7,14,20,14
+1996-97,v_gosteh,19,Sunderland,19,3,4,12,15,35,13
+1996-97,v_gosteh,20,Middlesbrough,19,2,7,10,17,35,13
+1997-98,skupaj,1,Arsenal,38,23,9,6,68,33,78
+1997-98,skupaj,2,Manchester United,38,23,8,7,73,26,77
+1997-98,skupaj,3,Liverpool,38,18,11,9,68,42,65
+1997-98,skupaj,4,Chelsea,38,20,3,15,71,43,63
+1997-98,skupaj,5,Leeds United,38,17,8,13,57,46,59
+1997-98,skupaj,6,Blackburn Rovers,38,16,10,12,57,52,58
+1997-98,skupaj,7,Aston Villa,38,17,6,15,49,48,57
+1997-98,skupaj,8,West Ham United,38,16,8,14,56,57,56
+1997-98,skupaj,9,Derby County,38,16,7,15,52,49,55
+1997-98,skupaj,10,Leicester City,38,13,14,11,51,41,53
+1997-98,skupaj,11,Coventry City,38,12,16,10,46,44,52
+1997-98,skupaj,12,Southampton,38,14,6,18,50,55,48
+1997-98,skupaj,13,Newcastle United,38,11,11,16,35,44,44
+1997-98,skupaj,14,Tottenham Hotspur,38,11,11,16,44,56,44
+1997-98,skupaj,15,Wimbledon,38,10,14,14,34,46,44
+1997-98,skupaj,16,Sheffield Wednesday,38,12,8,18,52,67,44
+1997-98,skupaj,17,Everton,38,9,13,16,41,56,40
+1997-98,skupaj,18,Bolton Wanderers,38,9,13,16,41,61,40
+1997-98,skupaj,19,Barnsley,38,10,5,23,37,82,35
+1997-98,skupaj,20,Crystal Palace,38,8,9,21,37,71,33
+1997-98,doma,1,Arsenal,19,15,2,2,43,10,47
+1997-98,doma,2,Manchester United,19,13,4,2,42,9,43
+1997-98,doma,3,West Ham United,19,13,4,2,40,18,43
+1997-98,doma,4,Liverpool,19,13,2,4,42,16,41
+1997-98,doma,5,Chelsea,19,13,2,4,37,14,41
+1997-98,doma,6,Derby County,19,12,3,4,33,18,39
+1997-98,doma,7,Blackburn Rovers,19,11,4,4,40,26,37
+1997-98,doma,8,Coventry City,19,8,9,2,26,17,33
+1997-98,doma,9,Leeds United,19,9,5,5,31,21,32
+1997-98,doma,10,Sheffield Wednesday,19,9,5,5,30,26,32
+1997-98,doma,11,Southampton,19,10,1,8,28,23,31
+1997-98,doma,12,Aston Villa,19,9,3,7,26,24,30
+1997-98,doma,13,Bolton Wanderers,19,7,8,4,25,22,29
+1997-98,doma,14,Newcastle United,19,8,5,6,22,20,29
+1997-98,doma,15,Tottenham Hotspur,19,7,8,4,23,22,29
+1997-98,doma,16,Leicester City,19,6,10,3,21,15,28
+1997-98,doma,17,Everton,19,7,5,7,25,27,26
+1997-98,doma,18,Barnsley,19,7,4,8,25,35,25
+1997-98,doma,19,Wimbledon,19,5,6,8,18,25,21
+1997-98,doma,20,Crystal Palace,19,2,5,12,15,39,11
+1997-98,v_gosteh,1,Manchester United,19,10,4,5,31,17,34
+1997-98,v_gosteh,2,Arsenal,19,8,7,4,25,23,31
+1997-98,v_gosteh,3,Leeds United,19,8,3,8,26,25,27
+1997-98,v_gosteh,4,Aston Villa,19,8,3,8,23,24,27
+1997-98,v_gosteh,5,Leicester City,19,7,4,8,30,26,25
+1997-98,v_gosteh,6,Liverpool,19,5,9,5,26,26,24
+1997-98,v_gosteh,7,Wimbledon,19,5,8,6,16,21,23
+1997-98,v_gosteh,8,Chelsea,19,7,1,11,34,29,22
+1997-98,v_gosteh,9,Crystal Palace,19,6,4,9,22,32,22
+1997-98,v_gosteh,10,Blackburn Rovers,19,5,6,8,17,26,21
+1997-98,v_gosteh,11,Coventry City,19,4,7,8,20,27,19
+1997-98,v_gosteh,12,Southampton,19,4,5,10,22,32,17
+1997-98,v_gosteh,13,Derby County,19,4,4,11,19,31,16
+1997-98,v_gosteh,14,Newcastle United,19,3,6,10,13,24,15
+1997-98,v_gosteh,15,Tottenham Hotspur,19,4,3,12,21,34,15
+1997-98,v_gosteh,16,Everton,19,2,8,9,16,29,14
+1997-98,v_gosteh,17,West Ham United,19,3,4,12,16,39,13
+1997-98,v_gosteh,18,Sheffield Wednesday,19,3,3,13,22,41,12
+1997-98,v_gosteh,19,Bolton Wanderers,19,2,5,12,16,39,11
+1997-98,v_gosteh,20,Barnsley,19,3,1,15,12,47,10
+1998-99,skupaj,1,Manchester United,38,22,13,3,80,37,79
+1998-99,skupaj,2,Arsenal,38,22,12,4,59,17,78
+1998-99,skupaj,3,Chelsea,38,20,15,3,57,30,75
+1998-99,skupaj,4,Leeds United,38,18,13,7,62,34,67
+1998-99,skupaj,5,West Ham United,38,16,9,13,46,53,57
+1998-99,skupaj,6,Aston Villa,38,15,10,13,51,46,55
+1998-99,skupaj,7,Liverpool,38,15,9,14,68,49,54
+1998-99,skupaj,8,Derby County,38,13,13,12,40,45,52
+1998-99,skupaj,9,Middlesbrough,38,12,15,11,48,54,51
+1998-99,skupaj,10,Leicester City,38,12,13,13,40,46,49
+1998-99,skupaj,11,Tottenham Hotspur,38,11,14,13,47,50,47
+1998-99,skupaj,12,Sheffield Wednesday,38,13,7,18,41,42,46
+1998-99,skupaj,13,Newcastle United,38,11,13,14,48,54,46
+1998-99,skupaj,14,Everton,38,11,10,17,42,47,43
+1998-99,skupaj,15,Coventry City,38,11,9,18,39,51,42
+1998-99,skupaj,16,Wimbledon,38,10,12,16,40,63,42
+1998-99,skupaj,17,Southampton,38,11,8,19,37,64,41
+1998-99,skupaj,18,Charlton Athletic,38,8,12,18,41,56,36
+1998-99,skupaj,19,Blackburn Rovers,38,7,14,17,38,52,35
+1998-99,skupaj,20,Nottingham Forest,38,7,9,22,35,69,30
+1998-99,doma,1,Arsenal,19,14,5,0,34,5,47
+1998-99,doma,2,Manchester United,19,14,4,1,45,18,46
+1998-99,doma,3,Chelsea,19,12,6,1,29,13,42
+1998-99,doma,4,Leeds United,19,12,5,2,32,9,41
+1998-99,doma,5,West Ham United,19,11,3,5,32,26,36
+1998-99,doma,6,Liverpool,19,10,5,4,44,24,35
+1998-99,doma,7,Aston Villa,19,10,3,6,33,28,33
+1998-99,doma,8,Southampton,19,9,4,6,29,26,31
+1998-99,doma,9,Derby County,19,8,7,4,22,19,31
+1998-99,doma,10,Middlesbrough,19,7,9,3,25,18,30
+1998-99,doma,11,Coventry City,19,8,6,5,26,21,30
+1998-99,doma,12,Tottenham Hotspur,19,7,7,5,28,26,28
+1998-99,doma,13,Wimbledon,19,7,7,5,22,21,28
+1998-99,doma,14,Newcastle United,19,7,6,6,26,25,27
+1998-99,doma,15,Leicester City,19,7,6,6,25,25,27
+1998-99,doma,16,Everton,19,6,8,5,22,12,26
+1998-99,doma,17,Sheffield Wednesday,19,7,5,7,20,15,26
+1998-99,doma,18,Blackburn Rovers,19,6,5,8,21,24,23
+1998-99,doma,19,Charlton Athletic,19,4,7,8,20,20,19
+1998-99,doma,20,Nottingham Forest,19,3,7,9,18,31,16
+1998-99,v_gosteh,1,Manchester United,19,8,9,2,35,19,33
+1998-99,v_gosteh,2,Chelsea,19,8,9,2,28,17,33
+1998-99,v_gosteh,3,Arsenal,19,8,7,4,25,12,31
+1998-99,v_gosteh,4,Leeds United,19,6,8,5,30,25,26
+1998-99,v_gosteh,5,Aston Villa,19,5,7,7,18,18,22
+1998-99,v_gosteh,6,Leicester City,19,5,7,7,15,21,22
+1998-99,v_gosteh,7,Derby County,19,5,6,8,18,26,21
+1998-99,v_gosteh,8,Middlesbrough,19,5,6,8,23,36,21
+1998-99,v_gosteh,9,West Ham United,19,5,6,8,14,27,21
+1998-99,v_gosteh,10,Sheffield Wednesday,19,6,2,11,21,27,20
+1998-99,v_gosteh,11,Liverpool,19,5,4,10,24,25,19
+1998-99,v_gosteh,12,Tottenham Hotspur,19,4,7,8,19,24,19
+1998-99,v_gosteh,13,Newcastle United,19,4,7,8,22,29,19
+1998-99,v_gosteh,14,Charlton Athletic,19,4,5,10,21,36,17
+1998-99,v_gosteh,15,Everton,19,5,2,12,20,35,17
+1998-99,v_gosteh,16,Nottingham Forest,19,4,2,13,17,38,14
+1998-99,v_gosteh,17,Wimbledon,19,3,5,11,18,42,14
+1998-99,v_gosteh,18,Blackburn Rovers,19,1,9,9,17,28,12
+1998-99,v_gosteh,19,Coventry City,19,3,3,13,13,30,12
+1998-99,v_gosteh,20,Southampton,19,2,4,13,8,38,10
+1999-00,skupaj,1,Manchester United,38,28,7,3,97,45,91
+1999-00,skupaj,2,Arsenal,38,22,7,9,73,43,73
+1999-00,skupaj,3,Leeds United,38,21,6,11,58,43,69
+1999-00,skupaj,4,Liverpool,38,19,10,9,51,30,67
+1999-00,skupaj,5,Chelsea,38,18,11,9,53,34,65
+1999-00,skupaj,6,Aston Villa,38,15,13,10,46,35,58
+1999-00,skupaj,7,Sunderland,38,16,10,12,57,56,58
+1999-00,skupaj,8,Leicester City,38,16,7,15,55,55,55
+1999-00,skupaj,9,West Ham United,38,15,10,13,52,53,55
+1999-00,skupaj,10,Tottenham Hotspur,38,15,8,15,57,49,53
+1999-00,skupaj,11,Newcastle United,38,14,10,14,63,54,52
+1999-00,skupaj,12,Middlesbrough,38,14,10,14,46,52,52
+1999-00,skupaj,13,Everton,38,12,14,12,59,49,50
+1999-00,skupaj,14,Coventry City,38,12,8,18,47,54,44
+1999-00,skupaj,15,Southampton,38,12,8,18,45,62,44
+1999-00,skupaj,16,Derby County,38,9,11,18,44,57,38
+1999-00,skupaj,17,Bradford City,38,9,9,20,38,68,36
+1999-00,skupaj,18,Wimbledon,38,7,12,19,46,74,33
+1999-00,skupaj,19,Sheffield Wednesday,38,8,7,23,38,70,31
+1999-00,skupaj,20,Watford,38,6,6,26,35,77,24
+1999-00,doma,1,Manchester United,19,15,4,0,59,16,49
+1999-00,doma,2,Arsenal,19,14,3,2,42,17,45
+1999-00,doma,3,Chelsea,19,12,5,2,35,12,41
+1999-00,doma,4,Leeds United,19,12,2,5,29,18,38
+1999-00,doma,5,West Ham United,19,11,5,3,32,23,38
+1999-00,doma,6,Coventry City,19,12,1,6,38,22,37
+1999-00,doma,7,Liverpool,19,11,4,4,28,13,37
+1999-00,doma,8,Sunderland,19,10,6,3,28,17,36
+1999-00,doma,9,Newcastle United,19,10,5,4,42,20,35
+1999-00,doma,10,Tottenham Hotspur,19,10,3,6,40,26,33
+1999-00,doma,11,Leicester City,19,10,3,6,31,24,33
+1999-00,doma,12,Aston Villa,19,8,8,3,23,12,32
+1999-00,doma,13,Everton,19,7,9,3,36,21,30
+1999-00,doma,14,Middlesbrough,19,8,5,6,23,26,29
+1999-00,doma,15,Southampton,19,8,4,7,26,22,28
+1999-00,doma,16,Bradford City,19,6,8,5,26,29,26
+1999-00,doma,17,Wimbledon,19,6,7,6,30,28,25
+1999-00,doma,18,Sheffield Wednesday,19,6,3,10,21,23,21
+1999-00,doma,19,Derby County,19,6,3,10,22,25,21
+1999-00,doma,20,Watford,19,5,4,10,24,31,19
+1999-00,v_gosteh,1,Manchester United,19,13,3,3,38,29,42
+1999-00,v_gosteh,2,Leeds United,19,9,4,6,29,25,31
+1999-00,v_gosteh,3,Liverpool,19,8,6,5,23,17,30
+1999-00,v_gosteh,4,Arsenal,19,8,4,7,31,26,28
+1999-00,v_gosteh,5,Aston Villa,19,7,5,7,23,23,26
+1999-00,v_gosteh,6,Chelsea,19,6,6,7,18,22,24
+1999-00,v_gosteh,7,Middlesbrough,19,6,5,8,23,26,23
+1999-00,v_gosteh,8,Leicester City,19,6,4,9,24,31,22
+1999-00,v_gosteh,9,Sunderland,19,6,4,9,29,39,22
+1999-00,v_gosteh,10,Everton,19,5,5,9,23,28,20
+1999-00,v_gosteh,11,Tottenham Hotspur,19,5,5,9,17,23,20
+1999-00,v_gosteh,12,Derby County,19,3,8,8,22,32,17
+1999-00,v_gosteh,13,West Ham United,19,4,5,10,20,30,17
+1999-00,v_gosteh,14,Newcastle United,19,4,5,10,21,34,17
+1999-00,v_gosteh,15,Southampton,19,4,4,11,19,40,16
+1999-00,v_gosteh,16,Bradford City,19,3,1,15,12,39,10
+1999-00,v_gosteh,17,Sheffield Wednesday,19,2,4,13,17,47,10
+1999-00,v_gosteh,18,Wimbledon,19,1,5,13,16,46,8
+1999-00,v_gosteh,19,Coventry City,19,0,7,12,9,32,7
+1999-00,v_gosteh,20,Watford,19,1,2,16,11,46,5
+2000-01,skupaj,1,Manchester United,38,24,8,6,79,31,80
+2000-01,skupaj,2,Arsenal,38,20,10,8,63,38,70
+2000-01,skupaj,3,Liverpool,38,20,9,9,71,39,69
+2000-01,skupaj,4,Leeds United,38,20,8,10,64,43,68
+2000-01,skupaj,5,Ipswich Town,38,20,6,12,57,42,66
+2000-01,skupaj,6,Chelsea,38,17,10,11,68,45,61
+2000-01,skupaj,7,Sunderland,38,15,12,11,46,41,57
+2000-01,skupaj,8,Aston Villa,38,13,15,10,46,43,54
+2000-01,skupaj,9,Charlton Athletic,38,14,10,14,50,57,52
+2000-01,skupaj,10,Southampton,38,14,10,14,40,48,52
+2000-01,skupaj,11,Newcastle United,38,14,9,15,44,50,51
+2000-01,skupaj,12,Tottenham Hotspur,38,13,10,15,47,54,49
+2000-01,skupaj,13,Leicester City,38,14,6,18,39,51,48
+2000-01,skupaj,14,Middlesbrough,38,9,15,14,44,44,42
+2000-01,skupaj,15,West Ham United,38,10,12,16,45,50,42
+2000-01,skupaj,16,Everton,38,11,9,18,45,59,42
+2000-01,skupaj,17,Derby County,38,10,12,16,37,59,42
+2000-01,skupaj,18,Manchester City,38,8,10,20,41,65,34
+2000-01,skupaj,19,Coventry City,38,8,10,20,36,63,34
+2000-01,skupaj,20,Bradford City,38,5,11,22,30,70,26
+2000-01,doma,1,Arsenal,19,15,3,1,45,13,48
+2000-01,doma,2,Manchester United,19,15,2,2,49,12,47
+2000-01,doma,3,Liverpool,19,13,4,2,40,14,43
+2000-01,doma,4,Chelsea,19,13,3,3,44,20,42
+2000-01,doma,5,Tottenham Hotspur,19,11,6,2,31,16,39
+2000-01,doma,6,Ipswich Town,19,11,5,3,31,15,38
+2000-01,doma,7,Charlton Athletic,19,11,5,3,31,19,38
+2000-01,doma,8,Leeds United,19,11,3,5,36,21,36
+2000-01,doma,9,Southampton,19,11,2,6,27,22,35
+2000-01,doma,10,Newcastle United,19,10,4,5,26,17,34
+2000-01,doma,11,Sunderland,19,9,7,3,24,16,34
+2000-01,doma,12,Leicester City,19,10,4,5,28,23,34
+2000-01,doma,13,Aston Villa,19,8,8,3,27,20,32
+2000-01,doma,14,Derby County,19,8,7,4,23,24,31
+2000-01,doma,15,Everton,19,6,8,5,29,27,26
+2000-01,doma,16,West Ham United,19,6,6,7,24,20,24
+2000-01,doma,17,Middlesbrough,19,4,7,8,18,23,19
+2000-01,doma,18,Bradford City,19,4,7,8,20,29,19
+2000-01,doma,19,Coventry City,19,4,7,8,14,23,19
+2000-01,doma,20,Manchester City,19,4,3,12,20,31,15
+2000-01,v_gosteh,1,Manchester United,19,9,6,4,30,19,33
+2000-01,v_gosteh,2,Leeds United,19,9,5,5,28,22,32
+2000-01,v_gosteh,3,Ipswich Town,19,9,1,9,26,27,28
+2000-01,v_gosteh,4,Liverpool,19,7,5,7,31,25,26
+2000-01,v_gosteh,5,Middlesbrough,19,5,8,6,26,21,23
+2000-01,v_gosteh,6,Sunderland,19,6,5,8,22,25,23
+2000-01,v_gosteh,7,Aston Villa,19,5,7,7,19,23,22
+2000-01,v_gosteh,8,Arsenal,19,5,7,7,18,25,22
+2000-01,v_gosteh,9,Chelsea,19,4,7,8,24,25,19
+2000-01,v_gosteh,10,Manchester City,19,4,7,8,21,34,19
+2000-01,v_gosteh,11,West Ham United,19,4,6,9,21,30,18
+2000-01,v_gosteh,12,Southampton,19,3,8,8,13,26,17
+2000-01,v_gosteh,13,Newcastle United,19,4,5,10,18,33,17
+2000-01,v_gosteh,14,Everton,19,5,1,13,16,32,16
+2000-01,v_gosteh,15,Coventry City,19,4,3,12,22,40,15
+2000-01,v_gosteh,16,Leicester City,19,4,2,13,11,28,14
+2000-01,v_gosteh,17,Charlton Athletic,19,3,5,11,19,38,14
+2000-01,v_gosteh,18,Derby County,19,2,5,12,14,35,11
+2000-01,v_gosteh,19,Tottenham Hotspur,19,2,4,13,16,38,10
+2000-01,v_gosteh,20,Bradford City,19,1,4,14,10,41,7
+2001-02,skupaj,1,Arsenal,38,26,9,3,79,36,87
+2001-02,skupaj,2,Liverpool,38,24,8,6,67,30,80
+2001-02,skupaj,3,Manchester United,38,24,5,9,87,45,77
+2001-02,skupaj,4,Newcastle United,38,21,8,9,74,52,71
+2001-02,skupaj,5,Leeds United,38,18,12,8,53,37,66
+2001-02,skupaj,6,Chelsea,38,17,13,8,66,38,64
+2001-02,skupaj,7,West Ham United,38,15,8,15,48,57,53
+2001-02,skupaj,8,Aston Villa,38,12,14,12,46,47,50
+2001-02,skupaj,9,Tottenham Hotspur,38,14,8,16,49,53,50
+2001-02,skupaj,10,Blackburn Rovers,38,12,10,16,55,51,46
+2001-02,skupaj,11,Southampton,38,12,9,17,46,54,45
+2001-02,skupaj,12,Middlesbrough,38,12,9,17,35,47,45
+2001-02,skupaj,13,Fulham,38,10,14,14,36,44,44
+2001-02,skupaj,14,Charlton Athletic,38,10,14,14,38,49,44
+2001-02,skupaj,15,Everton,38,11,10,17,45,57,43
+2001-02,skupaj,16,Bolton Wanderers,38,9,13,16,44,62,40
+2001-02,skupaj,17,Sunderland,38,10,10,18,29,51,40
+2001-02,skupaj,18,Ipswich Town,38,9,9,20,41,64,36
+2001-02,skupaj,19,Derby County,38,8,6,24,33,63,30
+2001-02,skupaj,20,Leicester City,38,5,13,20,30,64,28
+2001-02,doma,1,Liverpool,19,12,5,2,33,14,41
+2001-02,doma,2,West Ham United,19,12,4,3,32,14,40
+2001-02,doma,3,Arsenal,19,12,4,3,42,25,40
+2001-02,doma,4,Newcastle United,19,12,3,4,40,23,39
+2001-02,doma,5,Chelsea,19,11,4,4,43,21,37
+2001-02,doma,6,Manchester United,19,11,2,6,40,17,35
+2001-02,doma,7,Tottenham Hotspur,19,10,4,5,32,24,34
+2001-02,doma,8,Leeds United,19,9,6,4,31,21,33
+2001-02,doma,9,Aston Villa,19,8,7,4,22,17,31
+2001-02,doma,10,Blackburn Rovers,19,8,6,5,33,20,30
+2001-02,doma,11,Fulham,19,7,7,5,21,16,28
+2001-02,doma,12,Everton,19,8,4,7,26,23,28
+2001-02,doma,13,Sunderland,19,7,7,5,18,16,28
+2001-02,doma,14,Southampton,19,7,5,7,23,22,26
+2001-02,doma,15,Middlesbrough,19,7,5,7,23,26,26
+2001-02,doma,16,Ipswich Town,19,6,4,9,20,24,22
+2001-02,doma,17,Bolton Wanderers,19,5,7,7,20,31,22
+2001-02,doma,18,Charlton Athletic,19,5,6,8,23,30,21
+2001-02,doma,19,Derby County,19,5,4,10,20,26,19
+2001-02,doma,20,Leicester City,19,3,7,9,15,34,16
+2001-02,v_gosteh,1,Arsenal,19,14,5,0,37,11,47
+2001-02,v_gosteh,2,Manchester United,19,13,3,3,47,28,42
+2001-02,v_gosteh,3,Liverpool,19,12,3,4,34,16,39
+2001-02,v_gosteh,4,Leeds United,19,9,6,4,22,16,33
+2001-02,v_gosteh,5,Newcastle United,19,9,5,5,34,29,32
+2001-02,v_gosteh,6,Chelsea,19,6,9,4,23,17,27
+2001-02,v_gosteh,7,Charlton Athletic,19,5,8,6,15,19,23
+2001-02,v_gosteh,8,Aston Villa,19,4,7,8,24,30,19
+2001-02,v_gosteh,9,Southampton,19,5,4,10,23,32,19
+2001-02,v_gosteh,10,Middlesbrough,19,5,4,10,12,21,19
+2001-02,v_gosteh,11,Bolton Wanderers,19,4,6,9,24,31,18
+2001-02,v_gosteh,12,Blackburn Rovers,19,4,4,11,22,31,16
+2001-02,v_gosteh,13,Tottenham Hotspur,19,4,4,11,17,29,16
+2001-02,v_gosteh,14,Fulham,19,3,7,9,15,28,16
+2001-02,v_gosteh,15,Everton,19,3,6,10,19,34,15
+2001-02,v_gosteh,16,Ipswich Town,19,3,5,11,21,40,14
+2001-02,v_gosteh,17,West Ham United,19,3,4,12,16,43,13
+2001-02,v_gosteh,18,Leicester City,19,2,6,11,15,30,12
+2001-02,v_gosteh,19,Sunderland,19,3,3,13,11,35,12
+2001-02,v_gosteh,20,Derby County,19,3,2,14,13,37,11
+2002-03,skupaj,1,Manchester United,38,25,8,5,74,34,83
+2002-03,skupaj,2,Arsenal,38,23,9,6,85,42,78
+2002-03,skupaj,3,Newcastle United,38,21,6,11,63,48,69
+2002-03,skupaj,4,Chelsea,38,19,10,9,68,38,67
+2002-03,skupaj,5,Liverpool,38,18,10,10,61,41,64
+2002-03,skupaj,6,Blackburn Rovers,38,16,12,10,52,43,60
+2002-03,skupaj,7,Everton,38,17,8,13,48,49,59
+2002-03,skupaj,8,Southampton,38,13,13,12,43,46,52
+2002-03,skupaj,9,Manchester City,38,15,6,17,47,54,51
+2002-03,skupaj,10,Tottenham Hotspur,38,14,8,16,51,62,50
+2002-03,skupaj,11,Middlesbrough,38,13,10,15,48,44,49
+2002-03,skupaj,12,Charlton Athletic,38,14,7,17,45,56,49
+2002-03,skupaj,13,Birmingham City,38,13,9,16,41,49,48
+2002-03,skupaj,14,Fulham,38,13,9,16,41,50,48
+2002-03,skupaj,15,Leeds United,38,14,5,19,58,57,47
+2002-03,skupaj,16,Aston Villa,38,12,9,17,42,47,45
+2002-03,skupaj,17,Bolton Wanderers,38,10,14,14,41,51,44
+2002-03,skupaj,18,West Ham United,38,10,12,16,42,59,42
+2002-03,skupaj,19,West Bromwich Albion,38,6,8,24,29,65,26
+2002-03,skupaj,20,Sunderland,38,4,7,27,21,65,19
+2002-03,doma,1,Manchester United,19,16,2,1,42,12,50
+2002-03,doma,2,Arsenal,19,15,2,2,47,20,47
+2002-03,doma,3,Newcastle United,19,15,2,2,36,17,47
+2002-03,doma,4,Chelsea,19,12,5,2,41,15,41
+2002-03,doma,5,Everton,19,11,5,3,28,19,38
+2002-03,doma,6,Middlesbrough,19,10,7,2,36,21,37
+2002-03,doma,7,Fulham,19,11,3,5,26,18,36
+2002-03,doma,8,Liverpool,19,9,8,2,30,16,35
+2002-03,doma,9,Aston Villa,19,11,2,6,25,14,35
+2002-03,doma,10,Southampton,19,9,8,2,25,16,35
+2002-03,doma,11,Blackburn Rovers,19,9,7,3,24,15,34
+2002-03,doma,12,Tottenham Hotspur,19,9,4,6,30,29,31
+2002-03,doma,13,Bolton Wanderers,19,7,8,4,27,24,29
+2002-03,doma,14,Manchester City,19,9,2,8,28,26,29
+2002-03,doma,15,Birmingham City,19,8,5,6,25,23,29
+2002-03,doma,16,Charlton Athletic,19,8,3,8,26,30,27
+2002-03,doma,17,Leeds United,19,7,3,9,25,26,24
+2002-03,doma,18,West Ham United,19,5,7,7,21,24,22
+2002-03,doma,19,West Bromwich Albion,19,3,5,11,17,34,14
+2002-03,doma,20,Sunderland,19,3,2,14,11,31,11
+2002-03,v_gosteh,1,Manchester United,19,9,6,4,32,22,33
+2002-03,v_gosteh,2,Arsenal,19,8,7,4,38,22,31
+2002-03,v_gosteh,3,Liverpool,19,9,2,8,31,25,29
+2002-03,v_gosteh,4,Chelsea,19,7,5,7,27,23,26
+2002-03,v_gosteh,5,Blackburn Rovers,19,7,5,7,28,28,26
+2002-03,v_gosteh,6,Leeds United,19,7,2,10,33,31,23
+2002-03,v_gosteh,7,Newcastle United,19,6,4,9,27,31,22
+2002-03,v_gosteh,8,Charlton Athletic,19,6,4,9,19,26,22
+2002-03,v_gosteh,9,Manchester City,19,6,4,9,19,28,22
+2002-03,v_gosteh,10,Everton,19,6,3,10,20,30,21
+2002-03,v_gosteh,11,West Ham United,19,5,5,9,21,35,20
+2002-03,v_gosteh,12,Birmingham City,19,5,4,10,16,26,19
+2002-03,v_gosteh,13,Tottenham Hotspur,19,5,4,10,21,33,19
+2002-03,v_gosteh,14,Southampton,19,4,5,10,18,30,17
+2002-03,v_gosteh,15,Bolton Wanderers,19,3,6,10,14,27,15
+2002-03,v_gosteh,16,Middlesbrough,19,3,3,13,12,23,12
+2002-03,v_gosteh,17,Fulham,19,2,6,11,15,32,12
+2002-03,v_gosteh,18,West Bromwich Albion,19,3,3,13,12,31,12
+2002-03,v_gosteh,19,Aston Villa,19,1,7,11,17,33,10
+2002-03,v_gosteh,20,Sunderland,19,1,5,13,10,34,8
+2003-04,skupaj,1,Arsenal,38,26,12,0,73,26,90
+2003-04,skupaj,2,Chelsea,38,24,7,7,67,30,79
+2003-04,skupaj,3,Manchester United,38,23,6,9,64,35,75
+2003-04,skupaj,4,Liverpool,38,16,12,10,55,37,60
+2003-04,skupaj,5,Newcastle United,38,13,17,8,52,40,56
+2003-04,skupaj,6,Aston Villa,38,15,11,12,48,44,56
+2003-04,skupaj,7,Charlton Athletic,38,14,11,13,51,51,53
+2003-04,skupaj,8,Bolton Wanderers,38,14,11,13,48,56,53
+2003-04,skupaj,9,Fulham,38,14,10,14,52,46,52
+2003-04,skupaj,10,Birmingham City,38,12,14,12,43,48,50
+2003-04,skupaj,11,Middlesbrough,38,13,9,16,44,52,48
+2003-04,skupaj,12,Southampton,38,12,11,15,44,45,47
+2003-04,skupaj,13,Portsmouth,38,12,9,17,47,54,45
+2003-04,skupaj,14,Tottenham Hotspur,38,13,6,19,47,57,45
+2003-04,skupaj,15,Blackburn Rovers,38,12,8,18,51,59,44
+2003-04,skupaj,16,Manchester City,38,9,14,15,55,54,41
+2003-04,skupaj,17,Everton,38,9,12,17,45,57,39
+2003-04,skupaj,18,Leicester City,38,6,15,17,48,65,33
+2003-04,skupaj,19,Leeds United,38,8,9,21,40,79,33
+2003-04,skupaj,20,Wolverhampton Wanderers,38,7,12,19,38,77,33
+2003-04,doma,1,Arsenal,19,15,4,0,40,14,49
+2003-04,doma,2,Manchester United,19,12,4,3,37,15,40
+2003-04,doma,3,Chelsea,19,12,4,3,34,13,40
+2003-04,doma,4,Newcastle United,19,11,5,3,33,14,38
+2003-04,doma,5,Portsmouth,19,10,4,5,35,19,34
+2003-04,doma,6,Liverpool,19,10,4,5,29,15,34
+2003-04,doma,7,Aston Villa,19,9,6,4,24,19,33
+2003-04,doma,8,Fulham,19,9,4,6,29,21,31
+2003-04,doma,9,Tottenham Hotspur,19,9,4,6,33,27,31
+2003-04,doma,10,Southampton,19,8,6,5,24,17,30
+2003-04,doma,11,Everton,19,8,5,6,27,20,29
+2003-04,doma,12,Birmingham City,19,8,5,6,26,24,29
+2003-04,doma,13,Middlesbrough,19,8,4,7,25,23,28
+2003-04,doma,14,Charlton Athletic,19,7,6,6,29,29,27
+2003-04,doma,15,Bolton Wanderers,19,6,8,5,24,21,26
+2003-04,doma,16,Wolverhampton Wanderers,19,7,5,7,23,35,26
+2003-04,doma,17,Manchester City,19,5,9,5,31,24,24
+2003-04,doma,18,Leeds United,19,5,7,7,25,31,22
+2003-04,doma,19,Blackburn Rovers,19,5,4,10,25,31,19
+2003-04,doma,20,Leicester City,19,3,10,6,19,28,19
+2003-04,v_gosteh,1,Arsenal,19,11,8,0,33,12,41
+2003-04,v_gosteh,2,Chelsea,19,12,3,4,33,17,39
+2003-04,v_gosteh,3,Manchester United,19,11,2,6,27,20,35
+2003-04,v_gosteh,4,Bolton Wanderers,19,8,3,8,24,35,27
+2003-04,v_gosteh,5,Liverpool,19,6,8,5,26,22,26
+2003-04,v_gosteh,6,Charlton Athletic,19,7,5,7,22,22,26
+2003-04,v_gosteh,7,Blackburn Rovers,19,7,4,8,26,28,25
+2003-04,v_gosteh,8,Aston Villa,19,6,5,8,24,25,23
+2003-04,v_gosteh,9,Fulham,19,5,6,8,23,25,21
+2003-04,v_gosteh,10,Birmingham City,19,4,9,6,17,24,21
+2003-04,v_gosteh,11,Middlesbrough,19,5,5,9,19,29,20
+2003-04,v_gosteh,12,Newcastle United,19,2,12,5,19,26,18
+2003-04,v_gosteh,13,Manchester City,19,4,5,10,24,30,17
+2003-04,v_gosteh,14,Southampton,19,4,5,10,20,28,17
+2003-04,v_gosteh,15,Leicester City,19,3,5,11,29,37,14
+2003-04,v_gosteh,16,Tottenham Hotspur,19,4,2,13,14,30,14
+2003-04,v_gosteh,17,Portsmouth,19,2,5,12,12,35,11
+2003-04,v_gosteh,18,Leeds United,19,3,2,14,15,48,11
+2003-04,v_gosteh,19,Everton,19,1,7,11,18,37,10
+2003-04,v_gosteh,20,Wolverhampton Wanderers,19,0,7,12,15,42,7
+2004-05,skupaj,1,Chelsea,38,29,8,1,72,15,95
+2004-05,skupaj,2,Arsenal,38,25,8,5,87,36,83
+2004-05,skupaj,3,Manchester United,38,22,11,5,58,26,77
+2004-05,skupaj,4,Everton,38,18,7,13,45,46,61
+2004-05,skupaj,5,Liverpool,38,17,7,14,52,41,58
+2004-05,skupaj,6,Bolton Wanderers,38,16,10,12,49,44,58
+2004-05,skupaj,7,Middlesbrough,38,14,13,11,53,46,55
+2004-05,skupaj,8,Manchester City,38,13,13,12,47,39,52
+2004-05,skupaj,9,Tottenham Hotspur,38,14,10,14,47,41,52
+2004-05,skupaj,10,Aston Villa,38,12,11,15,45,52,47
+2004-05,skupaj,11,Charlton Athletic,38,12,10,16,42,58,46
+2004-05,skupaj,12,Birmingham City,38,11,12,15,40,46,45
+2004-05,skupaj,13,Fulham,38,12,8,18,52,60,44
+2004-05,skupaj,14,Newcastle United,38,10,14,14,47,57,44
+2004-05,skupaj,15,Blackburn Rovers,38,9,15,14,32,43,42
+2004-05,skupaj,16,Portsmouth,38,10,9,19,43,59,39
+2004-05,skupaj,17,West Bromwich Albion,38,6,16,16,36,61,34
+2004-05,skupaj,18,Crystal Palace,38,7,12,19,41,62,33
+2004-05,skupaj,19,Norwich City,38,7,12,19,42,77,33
+2004-05,skupaj,20,Southampton,38,6,14,18,45,66,32
+2004-05,doma,1,Chelsea,19,14,5,0,35,6,47
+2004-05,doma,2,Arsenal,19,13,5,1,54,19,44
+2004-05,doma,3,Manchester United,19,12,6,1,31,12,42
+2004-05,doma,4,Liverpool,19,12,4,3,31,15,40
+2004-05,doma,5,Everton,19,12,2,5,24,15,38
+2004-05,doma,6,Middlesbrough,19,9,6,4,29,19,33
+2004-05,doma,7,Tottenham Hotspur,19,9,5,5,36,22,32
+2004-05,doma,8,Bolton Wanderers,19,9,5,5,25,18,32
+2004-05,doma,9,Manchester City,19,8,6,5,24,14,30
+2004-05,doma,10,Aston Villa,19,8,6,5,26,17,30
+2004-05,doma,11,Birmingham City,19,8,6,5,24,15,30
+2004-05,doma,12,Portsmouth,19,8,4,7,30,26,28
+2004-05,doma,13,Fulham,19,8,4,7,29,26,28
+2004-05,doma,14,Charlton Athletic,19,8,4,7,29,29,28
+2004-05,doma,15,Newcastle United,19,7,7,5,25,25,28
+2004-05,doma,16,Norwich City,19,7,5,7,29,32,26
+2004-05,doma,17,Southampton,19,5,9,5,30,30,24
+2004-05,doma,18,Crystal Palace,19,6,5,8,21,19,23
+2004-05,doma,19,Blackburn Rovers,19,5,8,6,21,22,23
+2004-05,doma,20,West Bromwich Albion,19,5,8,6,17,24,23
+2004-05,v_gosteh,1,Chelsea,19,15,3,1,37,9,48
+2004-05,v_gosteh,2,Arsenal,19,12,3,4,33,17,39
+2004-05,v_gosteh,3,Manchester United,19,10,5,4,27,14,35
+2004-05,v_gosteh,4,Bolton Wanderers,19,7,5,7,24,26,26
+2004-05,v_gosteh,5,Everton,19,6,5,8,21,31,23
+2004-05,v_gosteh,6,Manchester City,19,5,7,7,23,25,22
+2004-05,v_gosteh,7,Middlesbrough,19,5,7,7,24,27,22
+2004-05,v_gosteh,8,Tottenham Hotspur,19,5,5,9,11,19,20
+2004-05,v_gosteh,9,Blackburn Rovers,19,4,7,8,11,21,19
+2004-05,v_gosteh,10,Liverpool,19,5,3,11,21,26,18
+2004-05,v_gosteh,11,Charlton Athletic,19,4,6,9,13,29,18
+2004-05,v_gosteh,12,Aston Villa,19,4,5,10,19,35,17
+2004-05,v_gosteh,13,Newcastle United,19,3,7,9,22,32,16
+2004-05,v_gosteh,14,Fulham,19,4,4,11,23,34,16
+2004-05,v_gosteh,15,Birmingham City,19,3,6,10,16,31,15
+2004-05,v_gosteh,16,West Bromwich Albion,19,1,8,10,19,37,11
+2004-05,v_gosteh,17,Portsmouth,19,2,5,12,13,33,11
+2004-05,v_gosteh,18,Crystal Palace,19,1,7,11,20,43,10
+2004-05,v_gosteh,19,Southampton,19,1,5,13,15,36,8
+2004-05,v_gosteh,20,Norwich City,19,0,7,12,13,45,7
+2005-06,skupaj,1,Chelsea,38,29,4,5,72,22,91
+2005-06,skupaj,2,Manchester United,38,25,8,5,72,34,83
+2005-06,skupaj,3,Liverpool,38,25,7,6,57,25,82
+2005-06,skupaj,4,Arsenal,38,20,7,11,68,31,67
+2005-06,skupaj,5,Tottenham Hotspur,38,18,11,9,53,38,65
+2005-06,skupaj,6,Blackburn Rovers,38,19,6,13,51,42,63
+2005-06,skupaj,7,Newcastle United,38,17,7,14,47,42,58
+2005-06,skupaj,8,Bolton Wanderers,38,15,11,12,49,41,56
+2005-06,skupaj,9,West Ham United,38,16,7,15,52,55,55
+2005-06,skupaj,10,Wigan Athletic,38,15,6,17,45,52,51
+2005-06,skupaj,11,Everton,38,14,8,16,34,49,50
+2005-06,skupaj,12,Fulham,38,14,6,18,48,58,48
+2005-06,skupaj,13,Charlton Athletic,38,13,8,17,41,55,47
+2005-06,skupaj,14,Middlesbrough,38,12,9,17,48,58,45
+2005-06,skupaj,15,Manchester City,38,13,4,21,43,48,43
+2005-06,skupaj,16,Aston Villa,38,10,12,16,42,55,42
+2005-06,skupaj,17,Portsmouth,38,10,8,20,37,62,38
+2005-06,skupaj,18,Birmingham City,38,8,10,20,28,50,34
+2005-06,skupaj,19,West Bromwich Albion,38,7,9,22,31,58,30
+2005-06,skupaj,20,Sunderland,38,3,6,29,26,69,15
+2005-06,doma,1,Chelsea,19,18,1,0,47,9,55
+2005-06,doma,2,Liverpool,19,15,3,1,32,8,48
+2005-06,doma,3,Arsenal,19,14,3,2,48,13,45
+2005-06,doma,4,Manchester United,19,13,5,1,37,8,44
+2005-06,doma,5,Blackburn Rovers,19,13,3,3,31,17,42
+2005-06,doma,6,Tottenham Hotspur,19,12,5,2,31,16,41
+2005-06,doma,7,Fulham,19,13,2,4,31,21,41
+2005-06,doma,8,Bolton Wanderers,19,11,5,3,29,13,38
+2005-06,doma,9,Newcastle United,19,11,5,3,28,15,38
+2005-06,doma,10,West Ham United,19,9,3,7,30,25,30
+2005-06,doma,11,Manchester City,19,9,2,8,26,20,29
+2005-06,doma,12,Charlton Athletic,19,8,4,7,22,21,28
+2005-06,doma,13,Everton,19,8,4,7,22,22,28
+2005-06,doma,14,Middlesbrough,19,7,5,7,28,30,26
+2005-06,doma,15,Aston Villa,19,6,6,7,20,20,24
+2005-06,doma,16,Wigan Athletic,19,7,3,9,24,26,24
+2005-06,doma,17,Birmingham City,19,6,5,8,19,20,23
+2005-06,doma,18,Portsmouth,19,5,7,7,17,24,22
+2005-06,doma,19,West Bromwich Albion,19,6,2,11,21,24,20
+2005-06,doma,20,Sunderland,19,1,4,14,12,37,7
+2005-06,v_gosteh,1,Manchester United,19,12,3,4,35,26,39
+2005-06,v_gosteh,2,Chelsea,19,11,3,5,25,13,36
+2005-06,v_gosteh,3,Liverpool,19,10,4,5,25,17,34
+2005-06,v_gosteh,4,Wigan Athletic,19,8,3,8,21,26,27
+2005-06,v_gosteh,5,West Ham United,19,7,4,8,22,30,25
+2005-06,v_gosteh,6,Tottenham Hotspur,19,6,6,7,22,22,24
+2005-06,v_gosteh,7,Arsenal,19,6,4,9,20,18,22
+2005-06,v_gosteh,8,Everton,19,6,4,9,12,27,22
+2005-06,v_gosteh,9,Blackburn Rovers,19,6,3,10,20,25,21
+2005-06,v_gosteh,10,Newcastle United,19,6,2,11,19,27,20
+2005-06,v_gosteh,11,Middlesbrough,19,5,4,10,20,28,19
+2005-06,v_gosteh,12,Charlton Athletic,19,5,4,10,19,34,19
+2005-06,v_gosteh,13,Bolton Wanderers,19,4,6,9,20,28,18
+2005-06,v_gosteh,14,Aston Villa,19,4,6,9,22,35,18
+2005-06,v_gosteh,15,Portsmouth,19,5,1,13,20,38,16
+2005-06,v_gosteh,16,Manchester City,19,4,2,13,17,28,14
+2005-06,v_gosteh,17,Birmingham City,19,2,5,12,9,30,11
+2005-06,v_gosteh,18,West Bromwich Albion,19,1,7,11,10,34,10
+2005-06,v_gosteh,19,Sunderland,19,2,2,15,14,32,8
+2005-06,v_gosteh,20,Fulham,19,1,4,14,17,37,7
+2006-07,skupaj,1,Manchester United,38,28,5,5,83,27,89
+2006-07,skupaj,2,Chelsea,38,24,11,3,64,24,83
+2006-07,skupaj,3,Liverpool,38,20,8,10,57,27,68
+2006-07,skupaj,4,Arsenal,38,19,11,8,63,35,68
+2006-07,skupaj,5,Tottenham Hotspur,38,17,9,12,57,54,60
+2006-07,skupaj,6,Everton,38,15,13,10,52,36,58
+2006-07,skupaj,7,Bolton Wanderers,38,16,8,14,47,52,56
+2006-07,skupaj,8,Reading,38,16,7,15,52,47,55
+2006-07,skupaj,9,Portsmouth,38,14,12,12,45,42,54
+2006-07,skupaj,10,Blackburn Rovers,38,15,7,16,52,54,52
+2006-07,skupaj,11,Aston Villa,38,11,17,10,43,41,50
+2006-07,skupaj,12,Middlesbrough,38,12,10,16,44,49,46
+2006-07,skupaj,13,Newcastle United,38,11,10,17,38,47,43
+2006-07,skupaj,14,Manchester City,38,11,9,18,29,44,42
+2006-07,skupaj,15,West Ham United,38,12,5,21,35,59,41
+2006-07,skupaj,16,Fulham,38,8,15,15,38,60,39
+2006-07,skupaj,17,Wigan Athletic,38,10,8,20,37,59,38
+2006-07,skupaj,18,Sheffield United,38,10,8,20,32,55,38
+2006-07,skupaj,19,Charlton Athletic,38,8,10,20,34,60,34
+2006-07,skupaj,20,Watford,38,5,13,20,29,59,28
+2006-07,doma,1,Manchester United,19,15,2,2,46,12,47
+2006-07,doma,2,Liverpool,19,14,4,1,39,7,46
+2006-07,doma,3,Chelsea,19,12,7,0,37,11,43
+2006-07,doma,4,Arsenal,19,12,6,1,43,16,42
+2006-07,doma,5,Tottenham Hotspur,19,12,3,4,34,22,39
+2006-07,doma,6,Portsmouth,19,11,5,3,28,15,38
+2006-07,doma,7,Everton,19,11,4,4,33,17,37
+2006-07,doma,8,Reading,19,11,2,6,29,20,35
+2006-07,doma,9,Middlesbrough,19,10,3,6,31,24,33
+2006-07,doma,10,Bolton Wanderers,19,9,5,5,26,20,32
+2006-07,doma,11,Blackburn Rovers,19,9,3,7,31,25,30
+2006-07,doma,12,Aston Villa,19,7,8,4,20,14,29
+2006-07,doma,13,Newcastle United,19,7,7,5,23,20,28
+2006-07,doma,14,Fulham,19,7,7,5,18,18,28
+2006-07,doma,15,Sheffield United,19,7,6,6,24,21,27
+2006-07,doma,16,Charlton Athletic,19,7,5,7,19,20,26
+2006-07,doma,17,West Ham United,19,8,2,9,24,26,26
+2006-07,doma,18,Manchester City,19,5,6,8,10,16,21
+2006-07,doma,19,Wigan Athletic,19,5,4,10,18,30,19
+2006-07,doma,20,Watford,19,3,9,7,19,25,18
+2006-07,v_gosteh,1,Manchester United,19,13,3,3,37,15,42
+2006-07,v_gosteh,2,Chelsea,19,12,4,3,27,13,40
+2006-07,v_gosteh,3,Arsenal,19,7,5,7,20,19,26
+2006-07,v_gosteh,4,Bolton Wanderers,19,7,3,9,21,32,24
+2006-07,v_gosteh,5,Liverpool,19,6,4,9,18,20,22
+2006-07,v_gosteh,6,Blackburn Rovers,19,6,4,9,21,29,22
+2006-07,v_gosteh,7,Everton,19,4,9,6,19,19,21
+2006-07,v_gosteh,8,Aston Villa,19,4,9,6,23,27,21
+2006-07,v_gosteh,9,Tottenham Hotspur,19,5,6,8,23,32,21
+2006-07,v_gosteh,10,Manchester City,19,6,3,10,19,28,21
+2006-07,v_gosteh,11,Reading,19,5,5,9,23,27,20
+2006-07,v_gosteh,12,Wigan Athletic,19,5,4,10,19,29,19
+2006-07,v_gosteh,13,Portsmouth,19,3,7,9,17,27,16
+2006-07,v_gosteh,14,Newcastle United,19,4,3,12,15,27,15
+2006-07,v_gosteh,15,West Ham United,19,4,3,12,11,33,15
+2006-07,v_gosteh,16,Middlesbrough,19,2,7,10,13,25,13
+2006-07,v_gosteh,17,Fulham,19,1,8,10,20,42,11
+2006-07,v_gosteh,18,Sheffield United,19,3,2,14,8,34,11
+2006-07,v_gosteh,19,Watford,19,2,4,13,10,34,10
+2006-07,v_gosteh,20,Charlton Athletic,19,1,5,13,15,40,8
+2007-08,skupaj,1,Manchester United,38,27,6,5,80,22,87
+2007-08,skupaj,2,Chelsea,38,25,10,3,65,26,85
+2007-08,skupaj,3,Arsenal,38,24,11,3,74,31,83
+2007-08,skupaj,4,Liverpool,38,21,13,4,67,28,76
+2007-08,skupaj,5,Everton,38,19,8,11,55,33,65
+2007-08,skupaj,6,Aston Villa,38,16,12,10,71,51,60
+2007-08,skupaj,7,Blackburn Rovers,38,15,13,10,50,48,58
+2007-08,skupaj,8,Portsmouth,38,16,9,13,48,40,57
+2007-08,skupaj,9,Manchester City,38,15,10,13,45,53,55
+2007-08,skupaj,10,West Ham United,38,13,10,15,42,50,49
+2007-08,skupaj,11,Tottenham Hotspur,38,11,13,14,66,61,46
+2007-08,skupaj,12,Newcastle United,38,11,10,17,45,65,43
+2007-08,skupaj,13,Middlesbrough,38,10,12,16,43,53,42
+2007-08,skupaj,14,Wigan Athletic,38,10,10,18,34,51,40
+2007-08,skupaj,15,Sunderland,38,11,6,21,36,59,39
+2007-08,skupaj,16,Bolton Wanderers,38,9,10,19,36,54,37
+2007-08,skupaj,17,Fulham,38,8,12,18,38,60,36
+2007-08,skupaj,18,Reading,38,10,6,22,41,66,36
+2007-08,skupaj,19,Birmingham City,38,8,11,19,46,62,35
+2007-08,skupaj,20,Derby County,38,1,8,29,20,89,11
+2007-08,doma,1,Manchester United,19,17,1,1,47,7,52
+2007-08,doma,2,Arsenal,19,14,5,0,37,11,47
+2007-08,doma,3,Chelsea,19,12,7,0,36,13,43
+2007-08,doma,4,Liverpool,19,12,6,1,43,13,42
+2007-08,doma,5,Everton,19,11,4,4,34,17,37
+2007-08,doma,6,Manchester City,19,11,4,4,28,20,37
+2007-08,doma,7,Aston Villa,19,10,3,6,34,22,33
+2007-08,doma,8,Blackburn Rovers,19,8,7,4,26,19,31
+2007-08,doma,9,Sunderland,19,9,3,7,23,21,30
+2007-08,doma,10,Tottenham Hotspur,19,8,5,6,46,34,29
+2007-08,doma,11,Portsmouth,19,7,8,4,24,14,29
+2007-08,doma,12,Wigan Athletic,19,8,5,6,21,17,29
+2007-08,doma,13,Newcastle United,19,8,5,6,25,26,29
+2007-08,doma,14,West Ham United,19,7,7,5,24,24,28
+2007-08,doma,15,Birmingham City,19,6,8,5,30,23,26
+2007-08,doma,16,Bolton Wanderers,19,7,5,7,23,18,26
+2007-08,doma,17,Middlesbrough,19,7,5,7,27,23,26
+2007-08,doma,18,Reading,19,8,2,9,19,25,26
+2007-08,doma,19,Fulham,19,5,5,9,22,31,20
+2007-08,doma,20,Derby County,19,1,5,13,12,43,8
+2007-08,v_gosteh,1,Chelsea,19,13,3,3,29,13,42
+2007-08,v_gosteh,2,Arsenal,19,10,6,3,37,20,36
+2007-08,v_gosteh,3,Manchester United,19,10,5,4,33,15,35
+2007-08,v_gosteh,4,Liverpool,19,9,7,3,24,15,34
+2007-08,v_gosteh,5,Everton,19,8,4,7,21,16,28
+2007-08,v_gosteh,6,Portsmouth,19,9,1,9,24,26,28
+2007-08,v_gosteh,7,Aston Villa,19,6,9,4,37,29,27
+2007-08,v_gosteh,8,Blackburn Rovers,19,7,6,6,24,29,27
+2007-08,v_gosteh,9,West Ham United,19,6,3,10,18,26,21
+2007-08,v_gosteh,10,Manchester City,19,4,6,9,17,33,18
+2007-08,v_gosteh,11,Tottenham Hotspur,19,3,8,8,20,27,17
+2007-08,v_gosteh,12,Fulham,19,3,7,9,16,29,16
+2007-08,v_gosteh,13,Middlesbrough,19,3,7,9,16,30,16
+2007-08,v_gosteh,14,Newcastle United,19,3,5,11,20,39,14
+2007-08,v_gosteh,15,Wigan Athletic,19,2,5,12,13,34,11
+2007-08,v_gosteh,16,Bolton Wanderers,19,2,5,12,13,36,11
+2007-08,v_gosteh,17,Reading,19,2,4,13,22,41,10
+2007-08,v_gosteh,18,Birmingham City,19,2,3,14,16,39,9
+2007-08,v_gosteh,19,Sunderland,19,2,3,14,13,38,9
+2007-08,v_gosteh,20,Derby County,19,0,3,16,8,46,3
+2008-09,skupaj,1,Manchester United,38,28,6,4,68,24,90
+2008-09,skupaj,2,Liverpool,38,25,11,2,77,27,86
+2008-09,skupaj,3,Chelsea,38,25,8,5,68,24,83
+2008-09,skupaj,4,Arsenal,38,20,12,6,68,37,72
+2008-09,skupaj,5,Everton,38,17,12,9,55,37,63
+2008-09,skupaj,6,Aston Villa,38,17,11,10,54,48,62
+2008-09,skupaj,7,Fulham,38,14,11,13,39,34,53
+2008-09,skupaj,8,Tottenham Hotspur,38,14,9,15,45,45,51
+2008-09,skupaj,9,West Ham United,38,14,9,15,42,45,51
+2008-09,skupaj,10,Manchester City,38,15,5,18,58,50,50
+2008-09,skupaj,11,Wigan Athletic,38,12,9,17,34,45,45
+2008-09,skupaj,12,Stoke City,38,12,9,17,38,55,45
+2008-09,skupaj,13,Bolton Wanderers,38,11,8,19,41,53,41
+2008-09,skupaj,14,Portsmouth,38,10,11,17,38,57,41
+2008-09,skupaj,15,Blackburn Rovers,38,10,11,17,40,60,41
+2008-09,skupaj,16,Sunderland,38,9,9,20,34,54,36
+2008-09,skupaj,17,Hull City,38,8,11,19,39,64,35
+2008-09,skupaj,18,Newcastle United,38,7,13,18,40,59,34
+2008-09,skupaj,19,Middlesbrough,38,7,11,20,28,57,32
+2008-09,skupaj,20,West Bromwich Albion,38,8,8,22,36,67,32
+2008-09,doma,1,Manchester United,19,16,2,1,43,13,50
+2008-09,doma,2,Liverpool,19,12,7,0,41,13,43
+2008-09,doma,3,Manchester City,19,13,0,6,40,18,39
+2008-09,doma,4,Chelsea,19,11,6,2,33,12,39
+2008-09,doma,5,Arsenal,19,11,5,3,31,16,38
+2008-09,doma,6,Fulham,19,11,3,5,28,16,36
+2008-09,doma,7,Tottenham Hotspur,19,10,5,4,21,10,35
+2008-09,doma,8,Stoke City,19,10,5,4,22,15,35
+2008-09,doma,9,Everton,19,8,6,5,31,20,30
+2008-09,doma,10,Aston Villa,19,7,9,3,27,21,30
+2008-09,doma,11,West Ham United,19,9,2,8,23,22,29
+2008-09,doma,12,Wigan Athletic,19,8,5,6,17,18,29
+2008-09,doma,13,Portsmouth,19,8,3,8,26,29,27
+2008-09,doma,14,Bolton Wanderers,19,7,5,7,21,21,26
+2008-09,doma,15,Blackburn Rovers,19,6,7,6,22,23,25
+2008-09,doma,16,Middlesbrough,19,5,9,5,17,20,24
+2008-09,doma,17,West Bromwich Albion,19,7,3,9,26,33,24
+2008-09,doma,18,Newcastle United,19,5,7,7,24,29,22
+2008-09,doma,19,Sunderland,19,6,3,10,21,25,21
+2008-09,doma,20,Hull City,19,3,5,11,18,36,14
+2008-09,v_gosteh,1,Chelsea,19,14,2,3,35,12,44
+2008-09,v_gosteh,2,Liverpool,19,13,4,2,36,14,43
+2008-09,v_gosteh,3,Manchester United,19,12,4,3,25,11,40
+2008-09,v_gosteh,4,Arsenal,19,9,7,3,37,21,34
+2008-09,v_gosteh,5,Everton,19,9,6,4,24,17,33
+2008-09,v_gosteh,6,Aston Villa,19,10,2,7,27,27,32
+2008-09,v_gosteh,7,West Ham United,19,5,7,7,19,23,22
+2008-09,v_gosteh,8,Hull City,19,5,6,8,21,28,21
+2008-09,v_gosteh,9,Fulham,19,3,8,8,11,18,17
+2008-09,v_gosteh,10,Wigan Athletic,19,4,4,11,17,27,16
+2008-09,v_gosteh,11,Tottenham Hotspur,19,4,4,11,24,35,16
+2008-09,v_gosteh,12,Blackburn Rovers,19,4,4,11,18,37,16
+2008-09,v_gosteh,13,Bolton Wanderers,19,4,3,12,20,32,15
+2008-09,v_gosteh,14,Sunderland,19,3,6,10,13,29,15
+2008-09,v_gosteh,15,Portsmouth,19,2,8,9,12,28,14
+2008-09,v_gosteh,16,Newcastle United,19,2,6,11,16,30,12
+2008-09,v_gosteh,17,Manchester City,19,2,5,12,18,32,11
+2008-09,v_gosteh,18,Stoke City,19,2,4,13,16,40,10
+2008-09,v_gosteh,19,West Bromwich Albion,19,1,5,13,10,34,8
+2008-09,v_gosteh,20,Middlesbrough,19,2,2,15,11,37,8
+2009-10,skupaj,1,Chelsea,38,27,5,6,103,32,86
+2009-10,skupaj,2,Manchester United,38,27,4,7,86,28,85
+2009-10,skupaj,3,Arsenal,38,23,6,9,83,41,75
+2009-10,skupaj,4,Tottenham Hotspur,38,21,7,10,67,41,70
+2009-10,skupaj,5,Manchester City,38,18,13,7,73,45,67
+2009-10,skupaj,6,Aston Villa,38,17,13,8,52,39,64
+2009-10,skupaj,7,Liverpool,38,18,9,11,61,35,63
+2009-10,skupaj,8,Everton,38,16,13,9,60,49,61
+2009-10,skupaj,9,Birmingham City,38,13,11,14,38,47,50
+2009-10,skupaj,10,Blackburn Rovers,38,13,11,14,41,55,50
+2009-10,skupaj,11,Stoke City,38,11,14,13,34,48,47
+2009-10,skupaj,12,Fulham,38,12,10,16,39,46,46
+2009-10,skupaj,13,Sunderland,38,11,11,16,48,56,44
+2009-10,skupaj,14,Bolton Wanderers,38,10,9,19,42,67,39
+2009-10,skupaj,15,Wolverhampton Wanderers,38,9,11,18,32,56,38
+2009-10,skupaj,16,Wigan Athletic,38,9,9,20,37,79,36
+2009-10,skupaj,17,West Ham United,38,8,11,19,47,66,35
+2009-10,skupaj,18,Burnley,38,8,6,24,42,82,30
+2009-10,skupaj,19,Hull City,38,6,12,20,34,75,30
+2009-10,skupaj,20,Portsmouth,38,7,7,24,34,66,19
+2009-10,doma,1,Chelsea,19,17,1,1,68,14,52
+2009-10,doma,2,Manchester United,19,16,1,2,52,12,49
+2009-10,doma,3,Arsenal,19,15,2,2,48,15,47
+2009-10,doma,4,Tottenham Hotspur,19,14,2,3,40,12,44
+2009-10,doma,5,Liverpool,19,13,3,3,43,15,42
+2009-10,doma,6,Manchester City,19,12,4,3,41,20,40
+2009-10,doma,7,Everton,19,11,6,2,35,21,39
+2009-10,doma,8,Fulham,19,11,3,5,27,15,36
+2009-10,doma,9,Blackburn Rovers,19,10,6,3,28,18,36
+2009-10,doma,10,Sunderland,19,9,7,3,32,19,34
+2009-10,doma,11,Birmingham City,19,8,9,2,19,13,33
+2009-10,doma,12,Aston Villa,19,8,8,3,29,16,32
+2009-10,doma,13,Stoke City,19,7,6,6,24,21,27
+2009-10,doma,14,West Ham United,19,7,5,7,30,29,26
+2009-10,doma,15,Burnley,19,7,5,7,25,30,26
+2009-10,doma,16,Wigan Athletic,19,6,7,6,19,24,25
+2009-10,doma,17,Bolton Wanderers,19,6,6,7,26,31,24
+2009-10,doma,18,Hull City,19,6,6,7,22,29,24
+2009-10,doma,19,Wolverhampton Wanderers,19,5,6,8,13,22,21
+2009-10,doma,20,Portsmouth,19,5,3,11,24,32,18
+2009-10,v_gosteh,1,Manchester United,19,11,3,5,34,16,36
+2009-10,v_gosteh,2,Chelsea,19,10,4,5,35,18,34
+2009-10,v_gosteh,3,Aston Villa,19,9,5,5,23,23,32
+2009-10,v_gosteh,4,Arsenal,19,8,4,7,35,26,28
+2009-10,v_gosteh,5,Manchester City,19,6,9,4,32,25,27
+2009-10,v_gosteh,6,Tottenham Hotspur,19,7,5,7,27,29,26
+2009-10,v_gosteh,7,Everton,19,5,7,7,25,28,22
+2009-10,v_gosteh,8,Liverpool,19,5,6,8,18,20,21
+2009-10,v_gosteh,9,Stoke City,19,4,8,7,10,27,20
+2009-10,v_gosteh,10,Birmingham City,19,5,2,12,19,34,17
+2009-10,v_gosteh,11,Wolverhampton Wanderers,19,4,5,10,19,34,17
+2009-10,v_gosteh,12,Bolton Wanderers,19,4,3,12,16,36,15
+2009-10,v_gosteh,13,Blackburn Rovers,19,3,5,11,13,37,14
+2009-10,v_gosteh,14,Wigan Athletic,19,3,2,14,18,55,11
+2009-10,v_gosteh,15,Fulham,19,1,7,11,12,31,10
+2009-10,v_gosteh,16,Sunderland,19,2,4,13,16,37,10
+2009-10,v_gosteh,17,West Ham United,19,1,6,12,17,37,9
+2009-10,v_gosteh,18,Hull City,19,0,6,13,12,46,6
+2009-10,v_gosteh,19,Burnley,19,1,1,17,17,52,4
+2009-10,v_gosteh,20,Portsmouth,19,2,4,13,10,34,10
+2010-11,skupaj,1,Manchester United,38,23,11,4,78,37,80
+2010-11,skupaj,2,Chelsea,38,21,8,9,69,33,71
+2010-11,skupaj,3,Manchester City,38,21,8,9,60,33,71
+2010-11,skupaj,4,Arsenal,38,19,11,8,72,43,68
+2010-11,skupaj,5,Tottenham Hotspur,38,16,14,8,55,46,62
+2010-11,skupaj,6,Liverpool,38,17,7,14,59,44,58
+2010-11,skupaj,7,Everton,38,13,15,10,51,45,54
+2010-11,skupaj,8,Fulham,38,11,16,11,49,43,49
+2010-11,skupaj,9,Aston Villa,38,12,12,14,48,59,48
+2010-11,skupaj,10,Sunderland,38,12,11,15,45,56,47
+2010-11,skupaj,11,West Bromwich Albion,38,12,11,15,56,71,47
+2010-11,skupaj,12,Newcastle United,38,11,13,14,56,57,46
+2010-11,skupaj,13,Stoke City,38,13,7,18,46,48,46
+2010-11,skupaj,14,Bolton Wanderers,38,12,10,16,52,56,46
+2010-11,skupaj,15,Blackburn Rovers,38,11,10,17,46,59,43
+2010-11,skupaj,16,Wigan Athletic,38,9,15,14,40,61,42
+2010-11,skupaj,17,Wolverhampton Wanderers,38,11,7,20,46,66,40
+2010-11,skupaj,18,Birmingham City,38,8,15,15,37,58,39
+2010-11,skupaj,19,Blackpool,38,10,9,19,55,78,39
+2010-11,skupaj,20,West Ham United,38,7,12,19,43,70,33
+2010-11,doma,1,Manchester United,19,18,1,0,49,12,55
+2010-11,doma,2,Chelsea,19,14,3,2,39,13,45
+2010-11,doma,3,Manchester City,19,13,4,2,34,12,43
+2010-11,doma,4,Liverpool,19,12,4,3,37,14,40
+2010-11,doma,5,Arsenal,19,11,4,4,33,15,37
+2010-11,doma,6,Tottenham Hotspur,19,9,9,1,30,19,36
+2010-11,doma,7,Bolton Wanderers,19,10,5,4,34,24,35
+2010-11,doma,8,Stoke City,19,10,4,5,31,18,34
+2010-11,doma,9,Everton,19,9,7,3,31,23,34
+2010-11,doma,10,Fulham,19,8,7,4,30,23,31
+2010-11,doma,11,Aston Villa,19,8,7,4,26,19,31
+2010-11,doma,12,West Bromwich Albion,19,8,6,5,30,30,30
+2010-11,doma,13,Blackburn Rovers,19,7,7,5,22,16,28
+2010-11,doma,14,Wolverhampton Wanderers,19,8,4,7,30,30,28
+2010-11,doma,15,Newcastle United,19,6,8,5,41,27,26
+2010-11,doma,16,Sunderland,19,7,5,7,25,27,26
+2010-11,doma,17,Birmingham City,19,6,8,5,19,22,26
+2010-11,doma,18,Wigan Athletic,19,5,8,6,22,34,23
+2010-11,doma,19,Blackpool,19,5,5,9,30,37,20
+2010-11,doma,20,West Ham United,19,5,5,9,24,31,20
+2010-11,v_gosteh,1,Arsenal,19,8,7,4,39,28,31
+2010-11,v_gosteh,2,Manchester City,19,8,4,7,26,21,28
+2010-11,v_gosteh,3,Chelsea,19,7,5,7,30,20,26
+2010-11,v_gosteh,4,Tottenham Hotspur,19,7,5,7,25,27,26
+2010-11,v_gosteh,5,Manchester United,19,5,10,4,29,25,25
+2010-11,v_gosteh,6,Sunderland,19,5,6,8,20,29,21
+2010-11,v_gosteh,7,Everton,19,4,8,7,20,22,20
+2010-11,v_gosteh,8,Newcastle United,19,5,5,9,15,30,20
+2010-11,v_gosteh,9,Wigan Athletic,19,4,7,8,18,27,19
+2010-11,v_gosteh,10,Blackpool,19,5,4,10,25,41,19
+2010-11,v_gosteh,11,Fulham,19,3,9,7,19,20,18
+2010-11,v_gosteh,12,Liverpool,19,5,3,11,22,30,18
+2010-11,v_gosteh,13,West Bromwich Albion,19,4,5,10,26,41,17
+2010-11,v_gosteh,14,Aston Villa,19,4,5,10,22,40,17
+2010-11,v_gosteh,15,Blackburn Rovers,19,4,3,12,24,43,15
+2010-11,v_gosteh,16,Birmingham City,19,2,7,10,18,36,13
+2010-11,v_gosteh,17,West Ham United,19,2,7,10,19,39,13
+2010-11,v_gosteh,18,Stoke City,19,3,3,13,15,30,12
+2010-11,v_gosteh,19,Wolverhampton Wanderers,19,3,3,13,16,36,12
+2010-11,v_gosteh,20,Bolton Wanderers,19,2,5,12,18,32,11
+2011-12,skupaj,1,Manchester City,38,28,5,5,93,29,89
+2011-12,skupaj,2,Manchester United,38,28,5,5,89,33,89
+2011-12,skupaj,3,Arsenal,38,21,7,10,74,49,70
+2011-12,skupaj,4,Tottenham Hotspur,38,20,9,9,66,41,69
+2011-12,skupaj,5,Newcastle United,38,19,8,11,56,51,65
+2011-12,skupaj,6,Chelsea,38,18,10,10,65,46,64
+2011-12,skupaj,7,Everton,38,15,11,12,50,40,56
+2011-12,skupaj,8,Liverpool,38,14,10,14,47,40,52
+2011-12,skupaj,9,Fulham,38,14,10,14,48,51,52
+2011-12,skupaj,10,West Bromwich Albion,38,13,8,17,45,52,47
+2011-12,skupaj,11,Swansea City,38,12,11,15,44,51,47
+2011-12,skupaj,12,Norwich City,38,12,11,15,52,66,47
+2011-12,skupaj,13,Sunderland,38,11,12,15,45,46,45
+2011-12,skupaj,14,Stoke City,38,11,12,15,36,53,45
+2011-12,skupaj,15,Wigan Athletic,38,11,10,17,42,62,43
+2011-12,skupaj,16,Aston Villa,38,7,17,14,37,53,38
+2011-12,skupaj,17,Queens Park Rangers,38,10,7,21,43,66,37
+2011-12,skupaj,18,Bolton Wanderers,38,10,6,22,46,77,36
+2011-12,skupaj,19,Blackburn Rovers,38,8,7,23,48,78,31
+2011-12,skupaj,20,Wolverhampton Wanderers,38,5,10,23,40,82,25
+2011-12,doma,1,Manchester City,19,18,1,0,55,12,55
+2011-12,doma,2,Manchester United,19,15,2,2,52,19,47
+2011-12,doma,3,Tottenham Hotspur,19,13,3,3,39,17,42
+2011-12,doma,4,Arsenal,19,12,4,3,39,17,40
+2011-12,doma,5,Chelsea,19,12,3,4,41,24,39
+2011-12,doma,6,Newcastle United,19,11,5,3,29,17,38
+2011-12,doma,7,Fulham,19,10,5,4,36,26,35
+2011-12,doma,8,Everton,19,10,3,6,28,15,33
+2011-12,doma,9,Swansea City,19,8,7,4,27,18,31
+2011-12,doma,10,Stoke City,19,7,8,4,25,20,29
+2011-12,doma,11,Sunderland,19,7,7,5,26,17,28
+2011-12,doma,12,Liverpool,19,6,9,4,24,16,27
+2011-12,doma,13,Norwich City,19,7,6,6,28,30,27
+2011-12,doma,14,Queens Park Rangers,19,7,5,7,24,25,26
+2011-12,doma,15,Wigan Athletic,19,5,7,7,22,27,22
+2011-12,doma,16,West Bromwich Albion,19,6,3,10,21,22,21
+2011-12,doma,17,Aston Villa,19,4,7,8,20,25,19
+2011-12,doma,18,Blackburn Rovers,19,6,1,12,26,33,19
+2011-12,doma,19,Bolton Wanderers,19,4,4,11,23,39,16
+2011-12,doma,20,Wolverhampton Wanderers,19,3,3,13,19,43,12
+2011-12,v_gosteh,1,Manchester United,19,13,3,3,37,14,42
+2011-12,v_gosteh,2,Manchester City,19,10,4,5,38,17,34
+2011-12,v_gosteh,3,Arsenal,19,9,3,7,35,32,30
+2011-12,v_gosteh,4,Tottenham Hotspur,19,7,6,6,27,24,27
+2011-12,v_gosteh,5,Newcastle United,19,8,3,8,27,34,27
+2011-12,v_gosteh,6,West Bromwich Albion,19,7,5,7,24,30,26
+2011-12,v_gosteh,7,Chelsea,19,6,7,6,24,22,25
+2011-12,v_gosteh,8,Liverpool,19,8,1,10,23,24,25
+2011-12,v_gosteh,9,Everton,19,5,8,6,22,25,23
+2011-12,v_gosteh,10,Wigan Athletic,19,6,3,10,20,35,21
+2011-12,v_gosteh,11,Norwich City,19,5,5,9,24,36,20
+2011-12,v_gosteh,12,Bolton Wanderers,19,6,2,11,23,38,20
+2011-12,v_gosteh,13,Aston Villa,19,3,10,6,17,28,19
+2011-12,v_gosteh,14,Sunderland,19,4,5,10,19,29,17
+2011-12,v_gosteh,15,Fulham,19,4,5,10,12,25,17
+2011-12,v_gosteh,16,Swansea City,19,4,4,11,17,33,16
+2011-12,v_gosteh,17,Stoke City,19,4,4,11,11,33,16
+2011-12,v_gosteh,18,Wolverhampton Wanderers,19,2,7,10,21,39,13
+2011-12,v_gosteh,19,Blackburn Rovers,19,2,6,11,22,45,12
+2011-12,v_gosteh,20,Queens Park Rangers,19,3,2,14,19,41,11
+2012-13,skupaj,1,Manchester United,38,28,5,5,86,43,89
+2012-13,skupaj,2,Manchester City,38,23,9,6,66,34,78
+2012-13,skupaj,3,Chelsea,38,22,9,7,75,39,75
+2012-13,skupaj,4,Arsenal,38,21,10,7,72,37,73
+2012-13,skupaj,5,Tottenham Hotspur,38,21,9,8,66,46,72
+2012-13,skupaj,6,Everton,38,16,15,7,55,40,63
+2012-13,skupaj,7,Liverpool,38,16,13,9,71,43,61
+2012-13,skupaj,8,West Bromwich Albion,38,14,7,17,53,57,49
+2012-13,skupaj,9,Swansea City,38,11,13,14,47,51,46
+2012-13,skupaj,10,West Ham United,38,12,10,16,45,53,46
+2012-13,skupaj,11,Norwich City,38,10,14,14,41,58,44
+2012-13,skupaj,12,Fulham,38,11,10,17,50,60,43
+2012-13,skupaj,13,Stoke City,38,9,15,14,34,45,42
+2012-13,skupaj,14,Southampton,38,9,14,15,49,60,41
+2012-13,skupaj,15,Aston Villa,38,10,11,17,47,69,41
+2012-13,skupaj,16,Newcastle United,38,11,8,19,45,68,41
+2012-13,skupaj,17,Sunderland,38,9,12,17,41,54,39
+2012-13,skupaj,18,Wigan Athletic,38,9,9,20,47,73,36
+2012-13,skupaj,19,Reading,38,6,10,22,43,73,28
+2012-13,skupaj,20,Queens Park Rangers,38,4,13,21,30,60,25
+2012-13,doma,1,Manchester United,19,16,0,3,45,19,48
+2012-13,doma,2,Manchester City,19,14,3,2,41,15,45
+2012-13,doma,3,Everton,19,12,6,1,33,17,42
+2012-13,doma,4,Chelsea,19,12,5,2,41,16,41
+2012-13,doma,5,Arsenal,19,11,5,3,47,23,38
+2012-13,doma,6,Tottenham Hotspur,19,11,5,3,29,18,38
+2012-13,doma,7,Liverpool,19,9,6,4,33,16,33
+2012-13,doma,8,West Ham United,19,9,6,4,34,22,33
+2012-13,doma,9,West Bromwich Albion,19,9,4,6,32,25,31
+2012-13,doma,10,Norwich City,19,8,7,4,25,20,31
+2012-13,doma,11,Stoke City,19,7,7,5,21,22,28
+2012-13,doma,12,Newcastle United,19,9,1,9,24,31,28
+2012-13,doma,13,Swansea City,19,6,8,5,28,26,26
+2012-13,doma,14,Southampton,19,6,7,6,26,24,25
+2012-13,doma,15,Fulham,19,7,3,9,28,30,24
+2012-13,doma,16,Sunderland,19,5,8,6,20,19,23
+2012-13,doma,17,Aston Villa,19,5,5,9,23,28,20
+2012-13,doma,18,Reading,19,4,8,7,23,33,20
+2012-13,doma,19,Wigan Athletic,19,4,6,9,26,39,18
+2012-13,doma,20,Queens Park Rangers,19,2,8,9,13,28,14
+2012-13,v_gosteh,1,Manchester United,19,12,5,2,41,24,41
+2012-13,v_gosteh,2,Arsenal,19,10,5,4,25,14,35
+2012-13,v_gosteh,3,Chelsea,19,10,4,5,34,23,34
+2012-13,v_gosteh,4,Tottenham Hotspur,19,10,4,5,37,28,34
+2012-13,v_gosteh,5,Manchester City,19,9,6,4,25,19,33
+2012-13,v_gosteh,6,Liverpool,19,7,7,5,38,27,28
+2012-13,v_gosteh,7,Everton,19,4,9,6,22,23,21
+2012-13,v_gosteh,8,Aston Villa,19,5,6,8,24,41,21
+2012-13,v_gosteh,9,Swansea City,19,5,5,9,19,25,20
+2012-13,v_gosteh,10,Fulham,19,4,7,8,22,30,19
+2012-13,v_gosteh,11,West Bromwich Albion,19,5,3,11,21,32,18
+2012-13,v_gosteh,12,Wigan Athletic,19,5,3,11,21,34,18
+2012-13,v_gosteh,13,Southampton,19,3,7,9,23,36,16
+2012-13,v_gosteh,14,Sunderland,19,4,4,11,21,35,16
+2012-13,v_gosteh,15,Stoke City,19,2,8,9,13,23,14
+2012-13,v_gosteh,16,Newcastle United,19,2,7,10,21,37,13
+2012-13,v_gosteh,17,West Ham United,19,3,4,12,11,31,13
+2012-13,v_gosteh,18,Norwich City,19,2,7,10,16,38,13
+2012-13,v_gosteh,19,Queens Park Rangers,19,2,5,12,17,32,11
+2012-13,v_gosteh,20,Reading,19,2,2,15,20,40,8
+2013-14,skupaj,1,Manchester City,38,27,5,6,102,37,86
+2013-14,skupaj,2,Liverpool,38,26,6,6,101,50,84
+2013-14,skupaj,3,Chelsea,38,25,7,6,71,27,82
+2013-14,skupaj,4,Arsenal,38,24,7,7,68,41,79
+2013-14,skupaj,5,Everton,38,21,9,8,61,39,72
+2013-14,skupaj,6,Tottenham Hotspur,38,21,6,11,55,51,69
+2013-14,skupaj,7,Manchester United,38,19,7,12,64,43,64
+2013-14,skupaj,8,Southampton,38,15,11,12,54,46,56
+2013-14,skupaj,9,Stoke City,38,13,11,14,45,52,50
+2013-14,skupaj,10,Newcastle United,38,15,4,19,43,59,49
+2013-14,skupaj,11,Crystal Palace,38,13,6,19,33,48,45
+2013-14,skupaj,12,Swansea City,38,11,9,18,54,54,42
+2013-14,skupaj,13,West Ham United,38,11,7,20,40,51,40
+2013-14,skupaj,14,Sunderland,38,10,8,20,41,60,38
+2013-14,skupaj,15,Aston Villa,38,10,8,20,39,61,38
+2013-14,skupaj,16,Hull City,38,10,7,21,38,53,37
+2013-14,skupaj,17,West Bromwich Albion,38,7,15,16,43,59,36
+2013-14,skupaj,18,Norwich City,38,8,9,21,28,62,33
+2013-14,skupaj,19,Fulham,38,9,5,24,40,85,32
+2013-14,skupaj,20,Cardiff City,38,7,9,22,32,74,30
+2013-14,doma,1,Manchester City,19,17,1,1,63,13,52
+2013-14,doma,2,Liverpool,19,16,1,2,53,18,49
+2013-14,doma,3,Chelsea,19,15,3,1,43,11,48
+2013-14,doma,4,Arsenal,19,13,5,1,36,11,44
+2013-14,doma,5,Everton,19,13,3,3,38,19,42
+2013-14,doma,6,Stoke City,19,10,6,3,27,17,36
+2013-14,doma,7,Tottenham Hotspur,19,11,3,5,30,23,36
+2013-14,doma,8,Southampton,19,8,6,5,32,23,30
+2013-14,doma,9,Manchester United,19,9,3,7,29,21,30
+2013-14,doma,10,Newcastle United,19,8,3,8,23,28,27
+2013-14,doma,11,Crystal Palace,19,8,3,8,18,23,27
+2013-14,doma,12,Hull City,19,7,4,8,20,21,25
+2013-14,doma,13,West Ham United,19,7,3,9,25,26,24
+2013-14,doma,14,Norwich City,19,6,6,7,17,18,24
+2013-14,doma,15,Swansea City,19,6,5,8,33,26,23
+2013-14,doma,16,West Bromwich Albion,19,4,9,6,24,27,21
+2013-14,doma,17,Aston Villa,19,6,3,10,22,29,21
+2013-14,doma,18,Cardiff City,19,5,5,9,20,35,20
+2013-14,doma,19,Sunderland,19,5,3,11,21,27,18
+2013-14,doma,20,Fulham,19,5,3,11,24,38,18
+2013-14,v_gosteh,1,Liverpool,19,10,5,4,48,32,35
+2013-14,v_gosteh,2,Arsenal,19,11,2,6,32,30,35
+2013-14,v_gosteh,3,Manchester City,19,10,4,5,39,24,34
+2013-14,v_gosteh,4,Manchester United,19,10,4,5,35,22,34
+2013-14,v_gosteh,5,Chelsea,19,10,4,5,28,16,34
+2013-14,v_gosteh,6,Tottenham Hotspur,19,10,3,6,25,28,33
+2013-14,v_gosteh,7,Everton,19,8,6,5,23,20,30
+2013-14,v_gosteh,8,Southampton,19,7,5,7,22,23,26
+2013-14,v_gosteh,9,Newcastle United,19,7,1,11,20,31,22
+2013-14,v_gosteh,10,Sunderland,19,5,5,9,20,33,20
+2013-14,v_gosteh,11,Swansea City,19,5,4,10,21,28,19
+2013-14,v_gosteh,12,Crystal Palace,19,5,3,11,15,25,18
+2013-14,v_gosteh,13,Aston Villa,19,4,5,10,17,32,17
+2013-14,v_gosteh,14,West Ham United,19,4,4,11,15,25,16
+2013-14,v_gosteh,15,West Bromwich Albion,19,3,6,10,19,32,15
+2013-14,v_gosteh,16,Stoke City,19,3,5,11,18,35,14
+2013-14,v_gosteh,17,Fulham,19,4,2,13,16,47,14
+2013-14,v_gosteh,18,Hull City,19,3,3,13,18,32,12
+2013-14,v_gosteh,19,Cardiff City,19,2,4,13,12,39,10
+2013-14,v_gosteh,20,Norwich City,19,2,3,14,11,44,9
+2014-15,skupaj,1,Chelsea,38,26,9,3,73,32,87
+2014-15,skupaj,2,Manchester City,38,24,7,7,83,38,79
+2014-15,skupaj,3,Arsenal,38,22,9,7,71,36,75
+2014-15,skupaj,4,Manchester United,38,20,10,8,62,37,70
+2014-15,skupaj,5,Tottenham Hotspur,38,19,7,12,58,53,64
+2014-15,skupaj,6,Liverpool,38,18,8,12,52,48,62
+2014-15,skupaj,7,Southampton,38,18,6,14,54,33,60
+2014-15,skupaj,8,Swansea City,38,16,8,14,46,49,56
+2014-15,skupaj,9,Stoke City,38,15,9,14,48,45,54
+2014-15,skupaj,10,Crystal Palace,38,13,9,16,47,51,48
+2014-15,skupaj,11,Everton,38,12,11,15,48,50,47
+2014-15,skupaj,12,West Ham United,38,12,11,15,44,47,47
+2014-15,skupaj,13,West Bromwich Albion,38,11,11,16,38,51,44
+2014-15,skupaj,14,Leicester City,38,11,8,19,46,55,41
+2014-15,skupaj,15,Newcastle United,38,10,9,19,40,63,39
+2014-15,skupaj,16,Sunderland,38,7,17,14,31,53,38
+2014-15,skupaj,17,Aston Villa,38,10,8,20,31,57,38
+2014-15,skupaj,18,Hull City,38,8,11,19,33,51,35
+2014-15,skupaj,19,Burnley,38,7,12,19,28,53,33
+2014-15,skupaj,20,Queens Park Rangers,38,8,6,24,42,73,30
+2014-15,doma,1,Chelsea,19,15,4,0,36,9,49
+2014-15,doma,2,Manchester City,19,14,3,2,44,14,45
+2014-15,doma,3,Manchester United,19,14,2,3,41,15,44
+2014-15,doma,4,Arsenal,19,12,5,2,41,14,41
+2014-15,doma,5,Southampton,19,11,4,4,37,13,37
+2014-15,doma,6,Liverpool,19,10,5,4,30,20,35
+2014-15,doma,7,Stoke City,19,10,3,6,32,22,33
+2014-15,doma,8,Tottenham Hotspur,19,10,3,6,31,24,33
+2014-15,doma,9,Swansea City,19,9,5,5,27,22,32
+2014-15,doma,10,West Ham United,19,9,4,6,25,18,31
+2014-15,doma,11,Everton,19,7,7,5,27,21,28
+2014-15,doma,12,Leicester City,19,7,5,7,28,22,26
+2014-15,doma,13,Newcastle United,19,7,5,7,26,27,26
+2014-15,doma,14,West Bromwich Albion,19,7,4,8,24,26,25
+2014-15,doma,15,Queens Park Rangers,19,6,5,8,23,24,23
+2014-15,doma,16,Crystal Palace,19,6,3,10,21,27,21
+2014-15,doma,17,Aston Villa,19,5,6,8,18,25,21
+2014-15,doma,18,Hull City,19,5,5,9,19,24,20
+2014-15,doma,19,Sunderland,19,4,8,7,16,27,20
+2014-15,doma,20,Burnley,19,4,7,8,14,21,19
+2014-15,v_gosteh,1,Chelsea,19,11,5,3,37,23,38
+2014-15,v_gosteh,2,Manchester City,19,10,4,5,39,24,34
+2014-15,v_gosteh,3,Arsenal,19,10,4,5,30,22,34
+2014-15,v_gosteh,4,Tottenham Hotspur,19,9,4,6,27,29,31
+2014-15,v_gosteh,5,Crystal Palace,19,7,6,6,26,24,27
+2014-15,v_gosteh,6,Liverpool,19,8,3,8,22,28,27
+2014-15,v_gosteh,7,Manchester United,19,6,8,5,21,22,26
+2014-15,v_gosteh,8,Swansea City,19,7,3,9,19,27,24
+2014-15,v_gosteh,9,Southampton,19,7,2,10,17,20,23
+2014-15,v_gosteh,10,Stoke City,19,5,6,8,16,23,21
+2014-15,v_gosteh,11,Everton,19,5,4,10,21,29,19
+2014-15,v_gosteh,12,West Bromwich Albion,19,4,7,8,14,25,19
+2014-15,v_gosteh,13,Sunderland,19,3,9,7,15,26,18
+2014-15,v_gosteh,14,Aston Villa,19,5,2,12,13,32,17
+2014-15,v_gosteh,15,West Ham United,19,3,7,9,19,29,16
+2014-15,v_gosteh,16,Hull City,19,3,6,10,14,27,15
+2014-15,v_gosteh,17,Leicester City,19,4,3,12,18,33,15
+2014-15,v_gosteh,18,Burnley,19,3,5,11,14,32,14
+2014-15,v_gosteh,19,Newcastle United,19,3,4,12,14,36,13
+2014-15,v_gosteh,20,Queens Park Rangers,19,2,1,16,19,49,7
+2015-16,skupaj,1,Leicester City,38,23,12,3,68,36,81
+2015-16,skupaj,2,Arsenal,38,20,11,7,65,36,71
+2015-16,skupaj,3,Tottenham Hotspur,38,19,13,6,69,35,70
+2015-16,skupaj,4,Manchester City,38,19,9,10,71,41,66
+2015-16,skupaj,5,Manchester United,38,19,9,10,49,35,66
+2015-16,skupaj,6,Southampton,38,18,9,11,59,41,63
+2015-16,skupaj,7,West Ham United,38,16,14,8,65,51,62
+2015-16,skupaj,8,Liverpool,38,16,12,10,63,50,60
+2015-16,skupaj,9,Stoke City,38,14,9,15,41,55,51
+2015-16,skupaj,10,Chelsea,38,12,14,12,59,53,50
+2015-16,skupaj,11,Everton,38,11,14,13,59,55,47
+2015-16,skupaj,12,Swansea City,38,12,11,15,42,52,47
+2015-16,skupaj,13,Watford,38,12,9,17,40,50,45
+2015-16,skupaj,14,West Bromwich Albion,38,10,13,15,34,48,43
+2015-16,skupaj,15,Crystal Palace,38,11,9,18,39,51,42
+2015-16,skupaj,16,AFC Bournemouth,38,11,9,18,45,67,42
+2015-16,skupaj,17,Sunderland,38,9,12,17,48,62,39
+2015-16,skupaj,18,Newcastle United,38,9,10,19,44,65,37
+2015-16,skupaj,19,Norwich City,38,9,7,22,39,67,34
+2015-16,skupaj,20,Aston Villa,38,3,8,27,27,76,17
+2015-16,doma,1,Leicester City,19,12,6,1,35,18,42
+2015-16,doma,2,Manchester United,19,12,5,2,27,9,41
+2015-16,doma,3,Arsenal,19,12,4,3,31,11,40
+2015-16,doma,4,Manchester City,19,12,2,5,47,21,38
+2015-16,doma,5,Tottenham Hotspur,19,10,6,3,35,15,36
+2015-16,doma,6,Southampton,19,11,3,5,39,22,36
+2015-16,doma,7,West Ham United,19,9,7,3,34,26,34
+2015-16,doma,8,Liverpool,19,8,8,3,33,22,32
+2015-16,doma,9,Swansea City,19,8,6,5,20,20,30
+2015-16,doma,10,Newcastle United,19,7,7,5,32,24,28
+2015-16,doma,11,Stoke City,19,8,4,7,22,24,28
+2015-16,doma,12,Sunderland,19,6,6,7,23,20,24
+2015-16,doma,13,Chelsea,19,5,9,5,32,30,24
+2015-16,doma,14,Watford,19,6,6,7,20,19,24
+2015-16,doma,15,Everton,19,6,5,8,35,30,23
+2015-16,doma,16,Norwich City,19,6,5,8,26,30,23
+2015-16,doma,17,West Bromwich Albion,19,6,5,8,20,26,23
+2015-16,doma,18,Crystal Palace,19,6,3,10,19,23,21
+2015-16,doma,19,AFC Bournemouth,19,5,5,9,23,34,20
+2015-16,doma,20,Aston Villa,19,2,5,12,14,35,11
+2015-16,v_gosteh,1,Leicester City,19,11,6,2,33,18,39
+2015-16,v_gosteh,2,Tottenham Hotspur,19,9,7,3,34,20,34
+2015-16,v_gosteh,3,Arsenal,19,8,7,4,34,25,31
+2015-16,v_gosteh,4,West Ham United,19,7,7,5,31,25,28
+2015-16,v_gosteh,5,Manchester City,19,7,7,5,24,20,28
+2015-16,v_gosteh,6,Liverpool,19,8,4,7,30,28,28
+2015-16,v_gosteh,7,Southampton,19,7,6,6,20,19,27
+2015-16,v_gosteh,8,Chelsea,19,7,5,7,27,23,26
+2015-16,v_gosteh,9,Manchester United,19,7,4,8,22,26,25
+2015-16,v_gosteh,10,Everton,19,5,9,5,24,25,24
+2015-16,v_gosteh,11,Stoke City,19,6,5,8,19,31,23
+2015-16,v_gosteh,12,AFC Bournemouth,19,6,4,9,22,33,22
+2015-16,v_gosteh,13,Crystal Palace,19,5,6,8,20,28,21
+2015-16,v_gosteh,14,Watford,19,6,3,10,20,31,21
+2015-16,v_gosteh,15,West Bromwich Albion,19,4,8,7,14,22,20
+2015-16,v_gosteh,16,Swansea City,19,4,5,10,22,32,17
+2015-16,v_gosteh,17,Sunderland,19,3,6,10,25,42,15
+2015-16,v_gosteh,18,Norwich City,19,3,2,14,13,37,11
+2015-16,v_gosteh,19,Newcastle United,19,2,3,14,12,41,9
+2015-16,v_gosteh,20,Aston Villa,19,1,3,15,13,41,6
+2016-17,skupaj,1,Chelsea,38,30,3,5,85,33,93
+2016-17,skupaj,2,Tottenham Hotspur,38,26,8,4,86,26,86
+2016-17,skupaj,3,Manchester City,38,23,9,6,80,39,78
+2016-17,skupaj,4,Liverpool,38,22,10,6,78,42,76
+2016-17,skupaj,5,Arsenal,38,23,6,9,77,44,75
+2016-17,skupaj,6,Manchester United,38,18,15,5,54,29,69
+2016-17,skupaj,7,Everton,38,17,10,11,62,44,61
+2016-17,skupaj,8,Southampton,38,12,10,16,41,48,46
+2016-17,skupaj,9,AFC Bournemouth,38,12,10,16,55,67,46
+2016-17,skupaj,10,West Bromwich Albion,38,12,9,17,43,51,45
+2016-17,skupaj,11,West Ham United,38,12,9,17,47,64,45
+2016-17,skupaj,12,Leicester City,38,12,8,18,48,63,44
+2016-17,skupaj,13,Stoke City,38,11,11,16,41,56,44
+2016-17,skupaj,14,Crystal Palace,38,12,5,21,50,63,41
+2016-17,skupaj,15,Swansea City,38,12,5,21,45,70,41
+2016-17,skupaj,16,Burnley,38,11,7,20,39,55,40
+2016-17,skupaj,17,Watford,38,11,7,20,40,68,40
+2016-17,skupaj,18,Hull City,38,9,7,22,37,80,34
+2016-17,skupaj,19,Middlesbrough,38,5,13,20,27,53,28
+2016-17,skupaj,20,Sunderland,38,6,6,26,29,69,24
+2016-17,doma,1,Tottenham Hotspur,19,17,2,0,47,9,53
+2016-17,doma,2,Chelsea,19,17,0,2,55,17,51
+2016-17,doma,3,Arsenal,19,14,3,2,39,16,45
+2016-17,doma,4,Everton,19,13,4,2,42,16,43
+2016-17,doma,5,Liverpool,19,12,5,2,45,18,41
+2016-17,doma,6,Manchester City,19,11,7,1,37,17,40
+2016-17,doma,7,Manchester United,19,8,10,1,26,12,34
+2016-17,doma,8,Leicester City,19,10,4,5,31,25,34
+2016-17,doma,9,Burnley,19,10,3,6,26,20,33
+2016-17,doma,10,AFC Bournemouth,19,9,4,6,35,29,31
+2016-17,doma,11,West Bromwich Albion,19,9,2,8,27,22,29
+2016-17,doma,12,Watford,19,8,4,7,25,29,28
+2016-17,doma,13,Hull City,19,8,4,7,28,35,28
+2016-17,doma,14,Stoke City,19,7,6,6,24,24,27
+2016-17,doma,15,Swansea City,19,8,3,8,27,34,27
+2016-17,doma,16,West Ham United,19,7,4,8,19,31,25
+2016-17,doma,17,Southampton,19,6,6,7,17,21,24
+2016-17,doma,18,Crystal Palace,19,6,2,11,24,25,20
+2016-17,doma,19,Middlesbrough,19,4,6,9,17,23,18
+2016-17,doma,20,Sunderland,19,3,5,11,16,34,14
+2016-17,v_gosteh,1,Chelsea,19,13,3,3,30,16,42
+2016-17,v_gosteh,2,Manchester City,19,12,2,5,43,22,38
+2016-17,v_gosteh,3,Manchester United,19,10,5,4,28,17,35
+2016-17,v_gosteh,4,Liverpool,19,10,5,4,33,24,35
+2016-17,v_gosteh,5,Tottenham Hotspur,19,9,6,4,39,17,33
+2016-17,v_gosteh,6,Arsenal,19,9,3,7,38,28,30
+2016-17,v_gosteh,7,Southampton,19,6,4,9,24,27,22
+2016-17,v_gosteh,8,Crystal Palace,19,6,3,10,26,38,21
+2016-17,v_gosteh,9,West Ham United,19,5,5,9,28,33,20
+2016-17,v_gosteh,10,Everton,19,4,6,9,20,28,18
+2016-17,v_gosteh,11,Stoke City,19,4,5,10,17,32,17
+2016-17,v_gosteh,12,West Bromwich Albion,19,3,7,9,16,29,16
+2016-17,v_gosteh,13,AFC Bournemouth,19,3,6,10,20,38,15
+2016-17,v_gosteh,14,Swansea City,19,4,2,13,18,36,14
+2016-17,v_gosteh,15,Watford,19,3,3,13,15,39,12
+2016-17,v_gosteh,16,Middlesbrough,19,1,7,11,10,30,10
+2016-17,v_gosteh,17,Leicester City,19,2,4,13,17,38,10
+2016-17,v_gosteh,18,Sunderland,19,3,1,15,13,35,10
+2016-17,v_gosteh,19,Burnley,19,1,4,14,13,35,7
+2016-17,v_gosteh,20,Hull City,19,1,3,15,9,45,6
+2017-18,skupaj,1,Manchester City,38,32,4,2,106,27,100
+2017-18,skupaj,2,Manchester United,38,25,6,7,68,28,81
+2017-18,skupaj,3,Tottenham Hotspur,38,23,8,7,74,36,77
+2017-18,skupaj,4,Liverpool,38,21,12,5,84,38,75
+2017-18,skupaj,5,Chelsea,38,21,7,10,62,38,70
+2017-18,skupaj,6,Arsenal,38,19,6,13,74,51,63
+2017-18,skupaj,7,Burnley,38,14,12,12,36,39,54
+2017-18,skupaj,8,Everton,38,13,10,15,44,58,49
+2017-18,skupaj,9,Leicester City,38,12,11,15,56,60,47
+2017-18,skupaj,10,Newcastle United,38,12,8,18,39,47,44
+2017-18,skupaj,11,Crystal Palace,38,11,11,16,45,55,44
+2017-18,skupaj,12,AFC Bournemouth,38,11,11,16,45,61,44
+2017-18,skupaj,13,West Ham United,38,10,12,16,48,68,42
+2017-18,skupaj,14,Watford,38,11,8,19,44,64,41
+2017-18,skupaj,15,Brighton and Hove Albion,38,9,13,16,34,54,40
+2017-18,skupaj,16,Huddersfield Town,38,9,10,19,28,58,37
+2017-18,skupaj,17,Southampton,38,7,15,16,37,56,36
+2017-18,skupaj,18,Swansea City,38,8,9,21,28,56,33
+2017-18,skupaj,19,Stoke City,38,7,12,19,35,68,33
+2017-18,skupaj,20,West Bromwich Albion,38,6,13,19,31,56,31
+2017-18,doma,1,Manchester City,19,16,2,1,61,14,50
+2017-18,doma,2,Arsenal,19,15,2,2,54,20,47
+2017-18,doma,3,Manchester United,19,15,2,2,38,9,47
+2017-18,doma,4,Liverpool,19,12,7,0,45,10,43
+2017-18,doma,5,Tottenham Hotspur,19,13,4,2,40,16,43
+2017-18,doma,6,Chelsea,19,11,4,4,30,16,37
+2017-18,doma,7,Everton,19,10,4,5,28,22,34
+2017-18,doma,8,Brighton and Hove Albion,19,7,8,4,24,25,29
+2017-18,doma,9,Newcastle United,19,8,4,7,21,17,28
+2017-18,doma,10,Leicester City,19,7,6,6,25,22,27
+2017-18,doma,11,West Ham United,19,7,6,6,24,26,27
+2017-18,doma,12,Watford,19,7,6,6,27,31,27
+2017-18,doma,13,Crystal Palace,19,7,5,7,29,27,26
+2017-18,doma,14,Burnley,19,7,5,7,16,17,26
+2017-18,doma,15,AFC Bournemouth,19,7,5,7,26,30,26
+2017-18,doma,16,Huddersfield Town,19,6,5,8,16,25,23
+2017-18,doma,17,Swansea City,19,6,3,10,17,24,21
+2017-18,doma,18,Stoke City,19,5,5,9,20,30,20
+2017-18,doma,19,Southampton,19,4,7,8,20,26,19
+2017-18,doma,20,West Bromwich Albion,19,3,9,7,21,29,18
+2017-18,v_gosteh,1,Manchester City,19,16,2,1,45,13,50
+2017-18,v_gosteh,2,Tottenham Hotspur,19,10,4,5,34,20,34
+2017-18,v_gosteh,3,Manchester United,19,10,4,5,30,19,34
+2017-18,v_gosteh,4,Chelsea,19,10,3,6,32,22,33
+2017-18,v_gosteh,5,Liverpool,19,9,5,5,39,28,32
+2017-18,v_gosteh,6,Burnley,19,7,7,5,20,22,28
+2017-18,v_gosteh,7,Leicester City,19,5,5,9,31,38,20
+2017-18,v_gosteh,8,AFC Bournemouth,19,4,6,9,19,31,18
+2017-18,v_gosteh,9,Crystal Palace,19,4,6,9,16,28,18
+2017-18,v_gosteh,10,Southampton,19,3,8,8,17,30,17
+2017-18,v_gosteh,11,Arsenal,19,4,4,11,20,31,16
+2017-18,v_gosteh,12,Newcastle United,19,4,4,11,18,30,16
+2017-18,v_gosteh,13,West Ham United,19,3,6,10,24,42,15
+2017-18,v_gosteh,14,Everton,19,3,6,10,16,36,15
+2017-18,v_gosteh,15,Watford,19,4,2,13,17,33,14
+2017-18,v_gosteh,16,Huddersfield Town,19,3,5,11,12,33,14
+2017-18,v_gosteh,17,West Bromwich Albion,19,3,4,12,10,27,13
+2017-18,v_gosteh,18,Stoke City,19,2,7,10,15,38,13
+2017-18,v_gosteh,19,Swansea City,19,2,6,11,11,32,12
+2017-18,v_gosteh,20,Brighton and Hove Albion,19,2,5,12,10,29,11
+2018-19,skupaj,1,Manchester City,38,32,2,4,95,23,98
+2018-19,skupaj,2,Liverpool,38,30,7,1,89,22,97
+2018-19,skupaj,3,Chelsea,38,21,9,8,63,39,72
+2018-19,skupaj,4,Tottenham Hotspur,38,23,2,13,67,39,71
+2018-19,skupaj,5,Arsenal,38,21,7,10,73,51,70
+2018-19,skupaj,6,Manchester United,38,19,9,10,65,54,66
+2018-19,skupaj,7,Wolverhampton Wanderers,38,16,9,13,47,46,57
+2018-19,skupaj,8,Everton,38,15,9,14,54,46,54
+2018-19,skupaj,9,Leicester City,38,15,7,16,51,48,52
+2018-19,skupaj,10,West Ham United,38,15,7,16,52,55,52
+2018-19,skupaj,11,Watford,38,14,8,16,52,59,50
+2018-19,skupaj,12,Crystal Palace,38,14,7,17,51,53,49
+2018-19,skupaj,13,Newcastle United,38,12,9,17,42,48,45
+2018-19,skupaj,14,AFC Bournemouth,38,13,6,19,56,70,45
+2018-19,skupaj,15,Burnley,38,11,7,20,45,68,40
+2018-19,skupaj,16,Southampton,38,9,12,17,45,65,39
+2018-19,skupaj,17,Brighton and Hove Albion,38,9,9,20,35,60,36
+2018-19,skupaj,18,Cardiff City,38,10,4,24,34,69,34
+2018-19,skupaj,19,Fulham,38,7,5,26,34,81,26
+2018-19,skupaj,20,Huddersfield Town,38,3,7,28,22,76,16
+2018-19,doma,1,Manchester City,19,18,0,1,57,12,54
+2018-19,doma,2,Liverpool,19,17,2,0,55,10,53
+2018-19,doma,3,Arsenal,19,14,3,2,42,16,45
+2018-19,doma,4,Chelsea,19,12,6,1,39,12,42
+2018-19,doma,5,Tottenham Hotspur,19,12,2,5,34,16,38
+2018-19,doma,6,Manchester United,19,10,6,3,33,25,36
+2018-19,doma,7,Everton,19,10,4,5,30,21,34
+2018-19,doma,8,Wolverhampton Wanderers,19,10,4,5,28,21,34
+2018-19,doma,9,West Ham United,19,9,4,6,32,27,31
+2018-19,doma,10,AFC Bournemouth,19,8,5,6,30,25,29
+2018-19,doma,11,Leicester City,19,8,3,8,24,20,27
+2018-19,doma,12,Watford,19,8,3,8,26,28,27
+2018-19,doma,13,Newcastle United,19,8,1,10,24,25,25
+2018-19,doma,14,Southampton,19,5,8,6,27,30,23
+2018-19,doma,15,Burnley,19,7,2,10,24,32,23
+2018-19,doma,16,Brighton and Hove Albion,19,6,5,8,19,28,23
+2018-19,doma,17,Fulham,19,6,3,10,22,36,21
+2018-19,doma,18,Crystal Palace,19,5,5,9,19,23,20
+2018-19,doma,19,Cardiff City,19,6,2,11,21,38,20
+2018-19,doma,20,Huddersfield Town,19,2,3,14,10,31,9
+2018-19,v_gosteh,1,Manchester City,19,14,2,3,38,11,44
+2018-19,v_gosteh,2,Liverpool,19,13,5,1,34,12,44
+2018-19,v_gosteh,3,Tottenham Hotspur,19,11,0,8,33,23,33
+2018-19,v_gosteh,4,Manchester United,19,9,3,7,32,29,30
+2018-19,v_gosteh,5,Chelsea,19,9,3,7,24,27,30
+2018-19,v_gosteh,6,Crystal Palace,19,9,2,8,32,30,29
+2018-19,v_gosteh,7,Leicester City,19,7,4,8,27,28,25
+2018-19,v_gosteh,8,Arsenal,19,7,4,8,31,35,25
+2018-19,v_gosteh,9,Watford,19,6,5,8,26,31,23
+2018-19,v_gosteh,10,Wolverhampton Wanderers,19,6,5,8,19,25,23
+2018-19,v_gosteh,11,West Ham United,19,6,3,10,20,28,21
+2018-19,v_gosteh,12,Everton,19,5,5,9,24,25,20
+2018-19,v_gosteh,13,Newcastle United,19,4,8,7,18,23,20
+2018-19,v_gosteh,14,Burnley,19,4,5,10,21,36,17
+2018-19,v_gosteh,15,Southampton,19,4,4,11,18,35,16
+2018-19,v_gosteh,16,AFC Bournemouth,19,5,1,13,26,45,16
+2018-19,v_gosteh,17,Cardiff City,19,4,2,13,13,31,14
+2018-19,v_gosteh,18,Brighton and Hove Albion,19,3,4,12,16,32,13
+2018-19,v_gosteh,19,Huddersfield Town,19,1,4,14,12,45,7
+2018-19,v_gosteh,20,Fulham,19,1,2,16,12,45,5
+2019-20,skupaj,1,Liverpool,38,32,3,3,85,33,99
+2019-20,skupaj,2,Manchester City,38,26,3,9,102,35,81
+2019-20,skupaj,3,Manchester United,38,18,12,8,66,36,66
+2019-20,skupaj,4,Chelsea,38,20,6,12,69,54,66
+2019-20,skupaj,5,Leicester City,38,18,8,12,67,41,62
+2019-20,skupaj,6,Tottenham Hotspur,38,16,11,11,61,47,59
+2019-20,skupaj,7,Wolverhampton Wanderers,38,15,14,9,51,40,59
+2019-20,skupaj,8,Arsenal,38,14,14,10,56,48,56
+2019-20,skupaj,9,Sheffield United,38,14,12,12,39,39,54
+2019-20,skupaj,10,Burnley,38,15,9,14,43,50,54
+2019-20,skupaj,11,Southampton,38,15,7,16,51,60,52
+2019-20,skupaj,12,Everton,38,13,10,15,44,56,49
+2019-20,skupaj,13,Newcastle United,38,11,11,16,38,58,44
+2019-20,skupaj,14,Crystal Palace,38,11,10,17,31,50,43
+2019-20,skupaj,15,Brighton and Hove Albion,38,9,14,15,39,54,41
+2019-20,skupaj,16,West Ham United,38,10,9,19,49,62,39
+2019-20,skupaj,17,Aston Villa,38,9,8,21,41,67,35
+2019-20,skupaj,18,AFC Bournemouth,38,9,7,22,40,65,34
+2019-20,skupaj,19,Watford,38,8,10,20,36,64,34
+2019-20,skupaj,20,Norwich City,38,5,6,27,26,75,21
+2019-20,doma,1,Liverpool,19,18,1,0,52,16,55
+2019-20,doma,2,Manchester City,19,15,2,2,57,13,47
+2019-20,doma,3,Tottenham Hotspur,19,12,3,4,36,17,39
+2019-20,doma,4,Manchester United,19,10,7,2,40,17,37
+2019-20,doma,5,Leicester City,19,11,4,4,35,17,37
+2019-20,doma,6,Chelsea,19,11,3,5,30,16,36
+2019-20,doma,7,Arsenal,19,10,6,3,36,24,36
+2019-20,doma,8,Sheffield United,19,10,3,6,24,15,33
+2019-20,doma,9,Wolverhampton Wanderers,19,8,7,4,27,19,31
+2019-20,doma,10,Everton,19,8,7,4,24,21,31
+2019-20,doma,11,Burnley,19,8,4,7,24,23,28
+2019-20,doma,12,Newcastle United,19,6,8,5,20,21,26
+2019-20,doma,13,Watford,19,6,6,7,22,27,24
+2019-20,doma,14,Aston Villa,19,7,3,9,22,30,24
+2019-20,doma,15,Crystal Palace,19,6,5,8,15,20,23
+2019-20,doma,16,West Ham United,19,6,4,9,30,33,22
+2019-20,doma,17,Brighton and Hove Albion,19,5,7,7,20,27,22
+2019-20,doma,18,AFC Bournemouth,19,5,6,8,22,30,21
+2019-20,doma,19,Southampton,19,6,3,10,21,35,21
+2019-20,doma,20,Norwich City,19,4,3,12,19,37,15
+2019-20,v_gosteh,1,Liverpool,19,14,2,3,33,17,44
+2019-20,v_gosteh,2,Manchester City,19,11,1,7,45,22,34
+2019-20,v_gosteh,3,Southampton,19,9,4,6,30,25,31
+2019-20,v_gosteh,4,Chelsea,19,9,3,7,39,38,30
+2019-20,v_gosteh,5,Manchester United,19,8,5,6,26,19,29
+2019-20,v_gosteh,6,Wolverhampton Wanderers,19,7,7,5,24,21,28
+2019-20,v_gosteh,7,Burnley,19,7,5,7,19,27,26
+2019-20,v_gosteh,8,Leicester City,19,7,4,8,32,24,25
+2019-20,v_gosteh,9,Sheffield United,19,4,9,6,15,24,21
+2019-20,v_gosteh,10,Arsenal,19,4,8,7,20,24,20
+2019-20,v_gosteh,11,Tottenham Hotspur,19,4,8,7,25,30,20
+2019-20,v_gosteh,12,Crystal Palace,19,5,5,9,16,30,20
+2019-20,v_gosteh,13,Brighton and Hove Albion,19,4,7,8,19,27,19
+2019-20,v_gosteh,14,Everton,19,5,3,11,20,35,18
+2019-20,v_gosteh,15,Newcastle United,19,5,3,11,18,37,18
+2019-20,v_gosteh,16,West Ham United,19,4,5,10,19,29,17
+2019-20,v_gosteh,17,AFC Bournemouth,19,4,1,14,18,35,13
+2019-20,v_gosteh,18,Aston Villa,19,2,5,12,19,37,11
+2019-20,v_gosteh,19,Watford,19,2,4,13,14,37,10
+2019-20,v_gosteh,20,Norwich City,19,1,3,15,7,38,6
+2019-20,doma_do_prekinitve,1,Liverpool,15,15,0,0,40,12,45
+2019-20,doma_do_prekinitve,2,Leicester City,15,9,3,3,30,15,30
+2019-20,doma_do_prekinitve,3,Manchester City,13,9,2,2,33,12,29
+2019-20,doma_do_prekinitve,4,Manchester United,15,8,5,2,29,12,29
+2019-20,doma_do_prekinitve,5,Tottenham Hotspur,14,8,2,4,27,15,26
+2019-20,doma_do_prekinitve,6,Arsenal,15,7,5,3,26,20,26
+2019-20,doma_do_prekinitve,7,Everton,14,7,4,3,19,15,25
+2019-20,doma_do_prekinitve,8,Chelsea,15,7,3,5,22,15,24
+2019-20,doma_do_prekinitve,9,Sheffield United,15,7,3,5,17,13,24
+2019-20,doma_do_prekinitve,10,Burnley,15,7,2,6,20,19,23
+2019-20,doma_do_prekinitve,11,Wolverhampton Wanderers,15,5,7,3,21,17,22
+2019-20,doma_do_prekinitve,12,Crystal Palace,15,6,4,5,12,13,22
+2019-20,doma_do_prekinitve,13,Newcastle United,14,5,6,3,12,12,21
+2019-20,doma_do_prekinitve,14,Brighton and Hove Albion,14,4,6,4,17,15,18
+2019-20,doma_do_prekinitve,15,Watford,14,4,5,5,16,17,17
+2019-20,doma_do_prekinitve,16,AFC Bournemouth,14,4,5,5,17,21,17
+2019-20,doma_do_prekinitve,17,Aston Villa,13,5,2,6,18,24,17
+2019-20,doma_do_prekinitve,18,West Ham United,14,4,3,7,23,26,15
+2019-20,doma_do_prekinitve,19,Norwich City,14,4,3,7,19,26,15
+2019-20,doma_do_prekinitve,20,Southampton,15,4,2,9,16,31,14
+2019-20,v_gosteh_do_prekinitve,1,Liverpool,14,12,1,1,26,9,37
+2019-20,v_gosteh_do_prekinitve,2,Manchester City,15,9,1,5,35,19,28
+2019-20,v_gosteh_do_prekinitve,3,Chelsea,14,7,3,4,29,24,24
+2019-20,v_gosteh_do_prekinitve,4,Leicester City,14,7,2,5,28,13,23
+2019-20,v_gosteh_do_prekinitve,5,Wolverhampton Wanderers,14,5,6,3,20,17,21
+2019-20,v_gosteh_do_prekinitve,6,Southampton,14,6,2,6,19,21,20
+2019-20,v_gosteh_do_prekinitve,7,Sheffield United,13,4,7,2,13,12,19
+2019-20,v_gosteh_do_prekinitve,8,Crystal Palace,14,4,5,5,14,19,17
+2019-20,v_gosteh_do_prekinitve,9,Manchester United,14,4,4,6,15,18,16
+2019-20,v_gosteh_do_prekinitve,10,Burnley,14,4,4,6,14,21,16
+2019-20,v_gosteh_do_prekinitve,11,Tottenham Hotspur,15,3,6,6,20,25,15
+2019-20,v_gosteh_do_prekinitve,12,Arsenal,13,2,8,3,14,16,14
+2019-20,v_gosteh_do_prekinitve,13,Newcastle United,15,4,2,9,13,29,14
+2019-20,v_gosteh_do_prekinitve,14,West Ham United,15,3,3,9,12,24,12
+2019-20,v_gosteh_do_prekinitve,15,Everton,15,3,3,9,18,31,12
+2019-20,v_gosteh_do_prekinitve,16,Brighton and Hove Albion,15,2,5,8,15,25,11
+2019-20,v_gosteh_do_prekinitve,17,AFC Bournemouth,15,3,1,11,12,26,10
+2019-20,v_gosteh_do_prekinitve,18,Watford,15,2,4,9,11,27,10
+2019-20,v_gosteh_do_prekinitve,19,Aston Villa,15,2,2,11,16,32,8
+2019-20,v_gosteh_do_prekinitve,20,Norwich City,15,1,3,11,6,26,6
+2020-21,skupaj,1,Manchester City,38,27,5,6,83,32,86
+2020-21,skupaj,2,Manchester United,38,21,11,6,73,44,74
+2020-21,skupaj,3,Liverpool,38,20,9,9,68,42,69
+2020-21,skupaj,4,Chelsea,38,19,10,9,58,36,67
+2020-21,skupaj,5,Leicester City,38,20,6,12,68,50,66
+2020-21,skupaj,6,West Ham United,38,19,8,11,62,47,65
+2020-21,skupaj,7,Tottenham Hotspur,38,18,8,12,68,45,62
+2020-21,skupaj,8,Arsenal,38,18,7,13,55,39,61
+2020-21,skupaj,9,Leeds United,38,18,5,15,62,54,59
+2020-21,skupaj,10,Everton,38,17,8,13,47,48,59
+2020-21,skupaj,11,Aston Villa,38,16,7,15,55,46,55
+2020-21,skupaj,12,Newcastle United,38,12,9,17,46,62,45
+2020-21,skupaj,13,Wolverhampton Wanderers,38,12,9,17,36,52,45
+2020-21,skupaj,14,Crystal Palace,38,12,8,18,41,66,44
+2020-21,skupaj,15,Southampton,38,12,7,19,47,68,43
+2020-21,skupaj,16,Brighton and Hove Albion,38,9,14,15,40,46,41
+2020-21,skupaj,17,Burnley,38,10,9,19,33,55,39
+2020-21,skupaj,18,Fulham,38,5,13,20,27,53,28
+2020-21,skupaj,19,West Bromwich Albion,38,5,11,22,35,76,26
+2020-21,skupaj,20,Sheffield United,38,7,2,29,20,63,23
+2020-21,doma,1,Manchester City,19,13,2,4,43,17,41
+2020-21,doma,2,West Ham United,19,10,4,5,32,22,34
+2020-21,doma,3,Tottenham Hotspur,19,10,3,6,35,20,33
+2020-21,doma,4,Chelsea,19,9,6,4,31,18,33
+2020-21,doma,5,Liverpool,19,10,3,6,29,20,33
+2020-21,doma,6,Manchester United,19,9,4,6,38,28,31
+2020-21,doma,7,Leeds United,19,8,5,6,28,21,29
+2020-21,doma,8,Leicester City,19,9,1,9,34,30,28
+2020-21,doma,9,Arsenal,19,8,4,7,24,21,28
+2020-21,doma,10,Southampton,19,8,3,8,28,25,27
+2020-21,doma,11,Aston Villa,19,7,4,8,29,27,25
+2020-21,doma,12,Wolverhampton Wanderers,19,7,4,8,21,25,25
+2020-21,doma,13,Newcastle United,19,6,5,8,26,33,23
+2020-21,doma,14,Crystal Palace,19,6,5,8,20,32,23
+2020-21,doma,15,Everton,19,6,4,9,24,28,22
+2020-21,doma,16,Brighton and Hove Albion,19,4,9,6,22,22,21
+2020-21,doma,17,Burnley,19,4,6,9,14,27,18
+2020-21,doma,18,Sheffield United,19,5,1,13,12,27,16
+2020-21,doma,19,West Bromwich Albion,19,3,6,10,15,39,15
+2020-21,doma,20,Fulham,19,2,4,13,9,28,10
+2020-21,v_gosteh,1,Manchester City,19,14,3,2,40,15,45
+2020-21,v_gosteh,2,Manchester United,19,12,7,0,35,16,43
+2020-21,v_gosteh,3,Leicester City,19,11,5,3,34,20,38
+2020-21,v_gosteh,4,Everton,19,11,4,4,23,20,37
+2020-21,v_gosteh,5,Liverpool,19,10,6,3,39,22,36
+2020-21,v_gosteh,6,Chelsea,19,10,4,5,27,18,34
+2020-21,v_gosteh,7,Arsenal,19,10,3,6,31,18,33
+2020-21,v_gosteh,8,West Ham United,19,9,4,6,30,25,31
+2020-21,v_gosteh,9,Aston Villa,19,9,3,7,26,19,30
+2020-21,v_gosteh,10,Leeds United,19,10,0,9,34,33,30
+2020-21,v_gosteh,11,Tottenham Hotspur,19,8,5,6,33,25,29
+2020-21,v_gosteh,12,Newcastle United,19,6,4,9,20,29,22
+2020-21,v_gosteh,13,Burnley,19,6,3,10,19,28,21
+2020-21,v_gosteh,14,Crystal Palace,19,6,3,10,21,34,21
+2020-21,v_gosteh,15,Brighton and Hove Albion,19,5,5,9,18,24,20
+2020-21,v_gosteh,16,Wolverhampton Wanderers,19,5,5,9,15,27,20
+2020-21,v_gosteh,17,Fulham,19,3,9,7,18,25,18
+2020-21,v_gosteh,18,Southampton,19,4,4,11,19,43,16
+2020-21,v_gosteh,19,West Bromwich Albion,19,2,5,12,20,37,11
+2020-21,v_gosteh,20,Sheffield United,19,2,1,16,8,36,7
+2021-22,skupaj,1,Manchester City,38,29,6,3,99,26,93
+2021-22,skupaj,2,Liverpool,38,28,8,2,94,26,92
+2021-22,skupaj,3,Chelsea,38,21,11,6,76,33,74
+2021-22,skupaj,4,Tottenham Hotspur,38,22,5,11,69,40,71
+2021-22,skupaj,5,Arsenal,38,22,3,13,61,48,69
+2021-22,skupaj,6,Manchester United,38,16,10,12,57,57,58
+2021-22,skupaj,7,West Ham United,38,16,8,14,60,51,56
+2021-22,skupaj,8,Leicester City,38,14,10,14,62,59,52
+2021-22,skupaj,9,Brighton and Hove Albion,38,12,15,11,42,44,51
+2021-22,skupaj,10,Wolverhampton Wanderers,38,15,6,17,38,43,51
+2021-22,skupaj,11,Newcastle United,38,13,10,15,44,62,49
+2021-22,skupaj,12,Crystal Palace,38,11,15,12,50,46,48
+2021-22,skupaj,13,Brentford,38,13,7,18,48,56,46
+2021-22,skupaj,14,Aston Villa,38,13,6,19,52,54,45
+2021-22,skupaj,15,Southampton,38,9,13,16,43,67,40
+2021-22,skupaj,16,Everton,38,11,6,21,43,66,39
+2021-22,skupaj,17,Leeds United,38,9,11,18,42,79,38
+2021-22,skupaj,18,Burnley,38,7,14,17,34,53,35
+2021-22,skupaj,19,Watford,38,6,5,27,34,77,23
+2021-22,skupaj,20,Norwich City,38,5,7,26,23,84,22
+2021-22,doma,1,Liverpool,19,15,4,0,49,9,49
+2021-22,doma,2,Manchester City,19,15,2,2,58,15,47
+2021-22,doma,3,Arsenal,19,13,2,4,35,17,41
+2021-22,doma,4,Tottenham Hotspur,19,13,1,5,38,19,40
+2021-22,doma,5,Manchester United,19,10,5,4,32,22,35
+2021-22,doma,6,Chelsea,19,9,7,3,37,22,34
+2021-22,doma,7,Leicester City,19,10,4,5,34,23,34
+2021-22,doma,8,West Ham United,19,9,5,5,33,26,32
+2021-22,doma,9,Newcastle United,19,8,6,5,26,27,30
+2021-22,doma,10,Crystal Palace,19,7,8,4,27,17,29
+2021-22,doma,11,Everton,19,9,2,8,27,25,29
+2021-22,doma,12,Southampton,19,6,7,6,23,24,25
+2021-22,doma,13,Brentford,19,7,3,9,22,21,24
+2021-22,doma,14,Wolverhampton Wanderers,19,7,3,9,20,25,24
+2021-22,doma,15,Aston Villa,19,6,5,8,29,29,23
+2021-22,doma,16,Brighton and Hove Albion,19,5,7,7,19,23,22
+2021-22,doma,17,Burnley,19,5,6,8,18,25,21
+2021-22,doma,18,Leeds United,19,4,6,9,19,38,18
+2021-22,doma,19,Norwich City,19,3,3,13,12,43,12
+2021-22,doma,20,Watford,19,2,2,15,17,46,8
+2021-22,v_gosteh,1,Manchester City,19,14,4,1,41,11,46
+2021-22,v_gosteh,2,Liverpool,19,13,4,2,45,17,43
+2021-22,v_gosteh,3,Chelsea,19,12,4,3,39,11,40
+2021-22,v_gosteh,4,Tottenham Hotspur,19,9,4,6,31,21,31
+2021-22,v_gosteh,5,Brighton and Hove Albion,19,7,8,4,23,21,29
+2021-22,v_gosteh,6,Arsenal,19,9,1,9,26,31,28
+2021-22,v_gosteh,7,Wolverhampton Wanderers,19,8,3,8,18,18,27
+2021-22,v_gosteh,8,West Ham United,19,7,3,9,27,25,24
+2021-22,v_gosteh,9,Manchester United,19,6,5,8,25,35,23
+2021-22,v_gosteh,10,Aston Villa,19,7,1,11,23,25,22
+2021-22,v_gosteh,11,Brentford,19,6,4,9,26,35,22
+2021-22,v_gosteh,12,Leeds United,19,5,5,9,23,41,20
+2021-22,v_gosteh,13,Crystal Palace,19,4,7,8,23,29,19
+2021-22,v_gosteh,14,Newcastle United,19,5,4,10,18,35,19
+2021-22,v_gosteh,15,Leicester City,19,4,6,9,28,36,18
+2021-22,v_gosteh,16,Watford,19,4,3,12,17,31,15
+2021-22,v_gosteh,17,Southampton,19,3,6,10,20,43,15
+2021-22,v_gosteh,18,Burnley,19,2,8,9,16,28,14
+2021-22,v_gosteh,19,Everton,19,2,4,13,16,41,10
+2021-22,v_gosteh,20,Norwich City,19,2,4,13,11,41,10
+2022-23,skupaj,1,Manchester City,38,28,5,5,94,33,89
+2022-23,skupaj,2,Arsenal,38,26,6,6,88,43,84
+2022-23,skupaj,3,Manchester United,38,23,6,9,58,43,75
+2022-23,skupaj,4,Newcastle United,38,19,14,5,68,33,71
+2022-23,skupaj,5,Liverpool,38,19,10,9,75,47,67
+2022-23,skupaj,6,Brighton and Hove Albion,38,18,8,12,72,53,62
+2022-23,skupaj,7,Aston Villa,38,18,7,13,51,46,61
+2022-23,skupaj,8,Tottenham Hotspur,38,18,6,14,70,63,60
+2022-23,skupaj,9,Brentford,38,15,14,9,58,46,59
+2022-23,skupaj,10,Fulham,38,15,7,16,55,53,52
+2022-23,skupaj,11,Crystal Palace,38,11,12,15,40,49,45
+2022-23,skupaj,12,Chelsea,38,11,11,16,38,47,44
+2022-23,skupaj,13,Wolverhampton Wanderers,38,11,8,19,31,58,41
+2022-23,skupaj,14,West Ham United,38,11,7,20,42,55,40
+2022-23,skupaj,15,AFC Bournemouth,38,11,6,21,37,71,39
+2022-23,skupaj,16,Nottingham Forest,38,9,11,18,38,68,38
+2022-23,skupaj,17,Everton,38,8,12,18,34,57,36
+2022-23,skupaj,18,Leicester City,38,9,7,22,51,68,34
+2022-23,skupaj,19,Leeds United,38,7,10,21,48,78,31
+2022-23,skupaj,20,Southampton,38,6,7,25,36,73,25
+2022-23,doma,1,Manchester City,19,17,1,1,60,17,52
+2022-23,doma,2,Manchester United,19,15,3,1,36,10,48
+2022-23,doma,3,Arsenal,19,14,3,2,53,25,45
+2022-23,doma,4,Liverpool,19,13,5,1,46,17,44
+2022-23,doma,5,Newcastle United,19,11,6,2,36,14,39
+2022-23,doma,6,Aston Villa,19,12,2,5,33,21,38
+2022-23,doma,7,Brentford,19,10,7,2,35,18,37
+2022-23,doma,8,Tottenham Hotspur,19,12,1,6,37,25,37
+2022-23,doma,9,Brighton and Hove Albion,19,10,4,5,37,21,34
+2022-23,doma,10,Nottingham Forest,19,8,6,5,27,24,30
+2022-23,doma,11,Wolverhampton Wanderers,19,9,3,7,19,20,30
+2022-23,doma,12,Fulham,19,8,5,6,31,29,29
+2022-23,doma,13,West Ham United,19,8,4,7,26,24,28
+2022-23,doma,14,Crystal Palace,19,7,7,5,21,23,28
+2022-23,doma,15,Chelsea,19,6,7,6,20,19,25
+2022-23,doma,16,AFC Bournemouth,19,6,4,9,20,28,22
+2022-23,doma,17,Leeds United,19,5,7,7,26,37,22
+2022-23,doma,18,Everton,19,6,3,10,16,27,21
+2022-23,doma,19,Leicester City,19,5,4,10,23,27,19
+2022-23,doma,20,Southampton,19,2,5,12,19,37,11
+2022-23,v_gosteh,1,Arsenal,19,12,3,4,35,18,39
+2022-23,v_gosteh,2,Manchester City,19,11,4,4,34,16,37
+2022-23,v_gosteh,3,Newcastle United,19,8,8,3,32,19,32
+2022-23,v_gosteh,4,Brighton and Hove Albion,19,8,4,7,35,32,28
+2022-23,v_gosteh,5,Manchester United,19,8,3,8,22,33,27
+2022-23,v_gosteh,6,Fulham,19,7,2,10,24,24,23
+2022-23,v_gosteh,7,Liverpool,19,6,5,8,29,30,23
+2022-23,v_gosteh,8,Tottenham Hotspur,19,6,5,8,33,38,23
+2022-23,v_gosteh,9,Aston Villa,19,6,5,8,18,25,23
+2022-23,v_gosteh,10,Brentford,19,5,7,7,23,28,22
+2022-23,v_gosteh,11,Chelsea,19,5,4,10,18,28,19
+2022-23,v_gosteh,12,Crystal Palace,19,4,5,10,19,26,17
+2022-23,v_gosteh,13,AFC Bournemouth,19,5,2,12,17,43,17
+2022-23,v_gosteh,14,Everton,19,2,9,8,18,30,15
+2022-23,v_gosteh,15,Leicester City,19,4,3,12,28,41,15
+2022-23,v_gosteh,16,Southampton,19,4,2,13,17,36,14
+2022-23,v_gosteh,17,West Ham United,19,3,3,13,16,31,12
+2022-23,v_gosteh,18,Wolverhampton Wanderers,19,2,5,12,12,38,11
+2022-23,v_gosteh,19,Leeds United,19,2,3,14,22,41,9
+2022-23,v_gosteh,20,Nottingham Forest,19,1,5,13,11,44,8
+2023-24,skupaj,1,Manchester City,38,28,7,3,96,34,91
+2023-24,skupaj,2,Arsenal,38,28,5,5,91,29,89
+2023-24,skupaj,3,Liverpool,38,24,10,4,86,41,82
+2023-24,skupaj,4,Aston Villa,38,20,8,10,76,61,68
+2023-24,skupaj,5,Tottenham Hotspur,38,20,6,12,74,61,66
+2023-24,skupaj,6,Chelsea,38,18,9,11,77,63,63
+2023-24,skupaj,7,Newcastle United,38,18,6,14,85,62,60
+2023-24,skupaj,8,Manchester United,38,18,6,14,57,58,60
+2023-24,skupaj,9,West Ham United,38,14,10,14,60,74,52
+2023-24,skupaj,10,Crystal Palace,38,13,10,15,57,58,49
+2023-24,skupaj,11,Brighton and Hove Albion,38,12,12,14,55,62,48
+2023-24,skupaj,12,AFC Bournemouth,38,13,9,16,54,67,48
+2023-24,skupaj,13,Fulham,38,13,8,17,55,61,47
+2023-24,skupaj,14,Wolverhampton Wanderers,38,13,7,18,50,65,46
+2023-24,skupaj,15,Everton,38,13,9,16,40,51,40
+2023-24,skupaj,16,Brentford,38,10,9,19,56,65,39
+2023-24,skupaj,17,Nottingham Forest,38,9,9,20,49,67,32
+2023-24,skupaj,18,Luton Town,38,6,8,24,52,85,26
+2023-24,skupaj,19,Burnley,38,5,9,24,41,78,24
+2023-24,skupaj,20,Sheffield United,38,3,7,28,35,104,16
+2023-24,doma,1,Liverpool,19,15,3,1,49,17,48
+2023-24,doma,2,Manchester City,19,14,5,0,51,16,47
+2023-24,doma,3,Arsenal,19,15,2,2,48,16,47
+2023-24,doma,4,Newcastle United,19,12,4,3,49,22,40
+2023-24,doma,5,Aston Villa,19,12,4,3,48,28,40
+2023-24,doma,6,Tottenham Hotspur,19,13,0,6,38,27,39
+2023-24,doma,7,Chelsea,19,11,4,4,44,26,37
+2023-24,doma,8,Manchester United,19,10,3,6,31,28,33
+2023-24,doma,9,Brighton and Hove Albion,19,8,6,5,30,27,30
+2023-24,doma,10,Fulham,19,9,2,8,31,24,29
+2023-24,doma,11,West Ham United,19,7,8,4,31,28,29
+2023-24,doma,12,Crystal Palace,19,8,4,7,37,26,28
+2023-24,doma,13,AFC Bournemouth,19,7,6,6,27,28,27
+2023-24,doma,14,Wolverhampton Wanderers,19,8,3,8,26,30,27
+2023-24,doma,15,Brentford,19,5,7,7,29,34,22
+2023-24,doma,16,Everton,19,8,4,7,22,18,28
+2023-24,doma,17,Nottingham Forest,19,5,5,9,27,30,20
+2023-24,doma,18,Luton Town,19,4,4,11,28,37,16
+2023-24,doma,19,Burnley,19,2,4,13,19,43,10
+2023-24,doma,20,Sheffield United,19,2,4,13,19,57,10
+2023-24,v_gosteh,1,Manchester City,19,14,2,3,45,18,44
+2023-24,v_gosteh,2,Arsenal,19,13,3,3,43,13,42
+2023-24,v_gosteh,3,Liverpool,19,9,7,3,37,24,34
+2023-24,v_gosteh,4,Aston Villa,19,8,4,7,28,33,28
+2023-24,v_gosteh,5,Tottenham Hotspur,19,7,6,6,36,34,27
+2023-24,v_gosteh,6,Manchester United,19,8,3,8,26,30,27
+2023-24,v_gosteh,7,Chelsea,19,7,5,7,33,37,26
+2023-24,v_gosteh,8,West Ham United,19,7,2,10,29,46,23
+2023-24,v_gosteh,9,AFC Bournemouth,19,6,3,10,27,39,21
+2023-24,v_gosteh,10,Crystal Palace,19,5,6,8,20,32,21
+2023-24,v_gosteh,11,Newcastle United,19,6,2,11,36,40,20
+2023-24,v_gosteh,12,Wolverhampton Wanderers,19,5,4,10,24,35,19
+2023-24,v_gosteh,13,Brighton and Hove Albion,19,4,6,9,25,35,18
+2023-24,v_gosteh,14,Fulham,19,4,6,9,24,37,18
+2023-24,v_gosteh,15,Brentford,19,5,2,12,27,31,17
+2023-24,v_gosteh,16,Burnley,19,3,5,11,22,35,14
+2023-24,v_gosteh,17,Nottingham Forest,19,4,4,11,22,37,16
+2023-24,v_gosteh,18,Everton,19,5,5,9,18,33,20
+2023-24,v_gosteh,19,Luton Town,19,2,4,13,24,48,10
+2023-24,v_gosteh,20,Sheffield United,19,1,3,15,16,47,6
+2024-25,skupaj,1,Liverpool,38,25,9,4,86,41,84
+2024-25,skupaj,2,Arsenal,38,20,14,4,69,34,74
+2024-25,skupaj,3,Manchester City,38,21,8,9,72,44,71
+2024-25,skupaj,4,Chelsea,38,20,9,9,64,43,69
+2024-25,skupaj,5,Newcastle United,38,20,6,12,68,47,66
+2024-25,skupaj,6,Aston Villa,38,19,9,10,58,51,66
+2024-25,skupaj,7,Nottingham Forest,38,19,8,11,58,46,65
+2024-25,skupaj,8,Brighton and Hove Albion,38,16,13,9,66,59,61
+2024-25,skupaj,9,AFC Bournemouth,38,15,11,12,58,46,56
+2024-25,skupaj,10,Brentford,38,16,8,14,66,57,56
+2024-25,skupaj,11,Fulham,38,15,9,14,54,54,54
+2024-25,skupaj,12,Crystal Palace,38,13,14,11,51,51,53
+2024-25,skupaj,13,Everton,38,11,15,12,42,44,48
+2024-25,skupaj,14,West Ham United,38,11,10,17,46,62,43
+2024-25,skupaj,15,Manchester United,38,11,9,18,44,54,42
+2024-25,skupaj,16,Wolverhampton Wanderers,38,12,6,20,54,69,42
+2024-25,skupaj,17,Tottenham Hotspur,38,11,5,22,64,65,38
+2024-25,skupaj,18,Leicester City,38,6,7,25,33,80,25
+2024-25,skupaj,19,Ipswich Town,38,4,10,24,36,82,22
+2024-25,skupaj,20,Southampton,38,2,6,30,26,86,12
+2024-25,doma,1,Liverpool,19,14,4,1,42,16,46
+2024-25,doma,2,Manchester City,19,13,3,3,43,23,42
+2024-25,doma,3,Chelsea,19,12,5,2,35,18,41
+2024-25,doma,4,Aston Villa,19,11,7,1,34,20,40
+2024-25,doma,5,Arsenal,19,11,6,2,35,17,39
+2024-25,doma,6,Newcastle United,19,12,2,5,40,20,38
+2024-25,doma,7,Nottingham Forest,19,9,5,5,26,16,32
+2024-25,doma,8,Brighton and Hove Albion,19,8,8,3,30,26,32
+2024-25,doma,9,Brentford,19,9,4,6,40,35,31
+2024-25,doma,10,AFC Bournemouth,19,8,4,7,23,16,28
+2024-25,doma,11,Fulham,19,7,5,7,27,30,26
+2024-25,doma,12,Crystal Palace,19,6,7,6,24,26,25
+2024-25,doma,13,Everton,19,5,9,5,26,23,24
+2024-25,doma,14,Manchester United,19,7,3,9,23,28,24
+2024-25,doma,15,Tottenham Hotspur,19,6,3,10,35,35,21
+2024-25,doma,16,Wolverhampton Wanderers,19,6,3,10,27,32,21
+2024-25,doma,17,West Ham United,19,5,5,9,23,34,20
+2024-25,doma,18,Leicester City,19,4,3,12,15,34,15
+2024-25,doma,19,Ipswich Town,19,1,4,14,14,44,7
+2024-25,doma,20,Southampton,19,1,3,15,13,47,6
+2024-25,v_gosteh,1,Liverpool,19,11,5,3,44,25,38
+2024-25,v_gosteh,2,Arsenal,19,9,8,2,34,17,35
+2024-25,v_gosteh,3,Nottingham Forest,19,10,3,6,32,30,33
+2024-25,v_gosteh,4,Manchester City,19,8,5,6,29,21,29
+2024-25,v_gosteh,5,Brighton and Hove Albion,19,8,5,6,36,33,29
+2024-25,v_gosteh,6,AFC Bournemouth,19,7,7,5,35,30,28
+2024-25,v_gosteh,7,Chelsea,19,8,4,7,29,25,28
+2024-25,v_gosteh,8,Fulham,19,8,4,7,27,24,28
+2024-25,v_gosteh,9,Crystal Palace,19,7,7,5,27,25,28
+2024-25,v_gosteh,10,Newcastle United,19,8,4,7,28,27,28
+2024-25,v_gosteh,11,Aston Villa,19,8,2,9,24,31,26
+2024-25,v_gosteh,12,Brentford,19,7,4,8,26,22,25
+2024-25,v_gosteh,13,Everton,19,6,6,7,16,21,24
+2024-25,v_gosteh,14,West Ham United,19,6,5,8,23,28,23
+2024-25,v_gosteh,15,Wolverhampton Wanderers,19,6,3,10,27,37,21
+2024-25,v_gosteh,16,Manchester United,19,4,6,9,21,26,18
+2024-25,v_gosteh,17,Tottenham Hotspur,19,5,2,12,29,30,17
+2024-25,v_gosteh,18,Ipswich Town,19,3,6,10,22,38,15
+2024-25,v_gosteh,19,Leicester City,19,2,4,13,18,46,10
+2024-25,v_gosteh,20,Southampton,19,1,3,15,13,39,6
+2025-26,skupaj,1,Arsenal,38,26,7,5,71,27,85
+2025-26,skupaj,2,Manchester City,38,23,9,6,77,35,78
+2025-26,skupaj,3,Manchester United,38,20,11,7,69,50,71
+2025-26,skupaj,4,Aston Villa,38,19,8,11,56,49,65
+2025-26,skupaj,5,Liverpool,38,17,9,12,63,53,60
+2025-26,skupaj,6,AFC Bournemouth,38,13,18,7,58,54,57
+2025-26,skupaj,7,Sunderland,38,14,12,12,42,48,54
+2025-26,skupaj,8,Brighton and Hove Albion,38,14,11,13,52,46,53
+2025-26,skupaj,9,Brentford,38,14,11,13,55,52,53
+2025-26,skupaj,10,Chelsea,38,14,10,14,58,52,52
+2025-26,skupaj,11,Fulham,38,15,7,16,47,51,52
+2025-26,skupaj,12,Newcastle United,38,14,7,17,53,55,49
+2025-26,skupaj,13,Everton,38,13,10,15,47,50,49
+2025-26,skupaj,14,Leeds United,38,11,14,13,49,56,47
+2025-26,skupaj,15,Crystal Palace,38,11,12,15,41,51,45
+2025-26,skupaj,16,Nottingham Forest,38,11,11,16,48,51,44
+2025-26,skupaj,17,Tottenham Hotspur,38,10,11,17,48,57,41
+2025-26,skupaj,18,West Ham United,38,10,9,19,46,65,39
+2025-26,skupaj,19,Burnley,38,4,10,24,38,75,22
+2025-26,skupaj,20,Wolverhampton Wanderers,38,3,11,24,27,68,20
+2025-26,doma,1,Arsenal,19,15,2,2,41,11,47
+2025-26,doma,2,Manchester City,19,14,3,2,45,14,45
+2025-26,doma,3,Manchester United,19,13,3,3,39,24,42
+2025-26,doma,4,Aston Villa,19,12,2,5,32,22,38
+2025-26,doma,5,Liverpool,19,10,6,3,34,20,36
+2025-26,doma,6,Fulham,19,11,2,6,30,20,35
+2025-26,doma,7,Brighton and Hove Albion,19,9,6,4,30,20,33
+2025-26,doma,8,Sunderland,19,9,6,4,25,20,33
+2025-26,doma,9,Brentford,19,8,8,3,33,21,32
+2025-26,doma,10,Leeds United,19,9,5,5,29,21,32
+2025-26,doma,11,Newcastle United,19,10,2,7,36,30,32
+2025-26,doma,12,AFC Bournemouth,19,7,10,2,29,20,31
+2025-26,doma,13,Chelsea,19,7,5,7,26,25,26
+2025-26,doma,14,Everton,19,6,5,8,26,27,23
+2025-26,doma,15,West Ham United,19,6,4,9,27,30,22
+2025-26,doma,16,Crystal Palace,19,4,9,6,19,23,21
+2025-26,doma,17,Nottingham Forest,19,4,8,7,20,23,20
+2025-26,doma,18,Tottenham Hotspur,19,3,6,10,22,31,15
+2025-26,doma,19,Wolverhampton Wanderers,19,3,5,11,19,34,14
+2025-26,doma,20,Burnley,19,2,7,10,18,29,13
+2025-26,v_gosteh,1,Arsenal,19,11,5,3,30,16,38
+2025-26,v_gosteh,2,Manchester City,19,9,6,4,32,21,33
+2025-26,v_gosteh,3,Manchester United,19,7,8,4,30,26,29
+2025-26,v_gosteh,4,Aston Villa,19,7,6,6,24,27,27
+2025-26,v_gosteh,5,Chelsea,19,7,5,7,32,27,26
+2025-26,v_gosteh,6,Tottenham Hotspur,19,7,5,7,26,26,26
+2025-26,v_gosteh,7,Everton,19,7,5,7,21,23,26
+2025-26,v_gosteh,8,AFC Bournemouth,19,6,8,5,29,34,26
+2025-26,v_gosteh,9,Nottingham Forest,19,7,3,9,28,28,24
+2025-26,v_gosteh,10,Liverpool,19,7,3,9,29,33,24
+2025-26,v_gosteh,11,Crystal Palace,19,7,3,9,22,28,24
+2025-26,v_gosteh,12,Brentford,19,6,3,10,22,31,21
+2025-26,v_gosteh,13,Sunderland,19,5,6,8,17,28,21
+2025-26,v_gosteh,14,Brighton and Hove Albion,19,5,5,9,22,26,20
+2025-26,v_gosteh,15,Newcastle United,19,4,5,10,17,25,17
+2025-26,v_gosteh,16,Fulham,19,4,5,10,17,31,17
+2025-26,v_gosteh,17,West Ham United,19,4,5,10,19,35,17
+2025-26,v_gosteh,18,Leeds United,19,2,9,8,20,35,15
+2025-26,v_gosteh,19,Burnley,19,2,3,14,20,46,9
+2025-26,v_gosteh,20,Wolverhampton Wanderers,19,0,6,13,8,34,6
