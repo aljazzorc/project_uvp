@@ -7,12 +7,6 @@ OSNOVNI_URL = "https://www.11v11.com/league-tables/premier-league"
 
 
 def shrani_strani(prvo_leto, zadnje_leto):
-    """
-    Za vsako sezono prenese tri lestvice s strani 11v11.com (skupno, doma in
-    v gosteh), za sezono 2019/20 pa še lestvici doma in v gosteh na dan
-    prekinitve zaradi covida-19 (13. 3. 2020). Strani shrani v mapo html_strani.
-    Leto pomeni konec sezone: 1993 je sezona 1992/93.
-    """
     mapa = "html_strani"
     if not os.path.exists(mapa):
         os.makedirs(mapa)
